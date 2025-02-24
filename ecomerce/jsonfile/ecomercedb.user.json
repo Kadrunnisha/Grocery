@@ -1,0 +1,2733 @@
+[{
+  "_id": {
+    "$oid": "65d47b78b76da2e45509ea49"
+  },
+  "id": 1,
+  "catgeory": "Dairy, Bread & Eggs",
+  "image": "http://localhost:8000/image/s1.avif",
+  "name": "Amul Fresh Malai Paneer",
+  "quantity": 200,
+  "price": 99,
+  "cutprice": 199
+},
+{
+  "_id": {
+    "$oid": "65d798f7e083ee6d554a8b84"
+  },
+  "id": 2,
+  "catgeory": "Product for you",
+  "image": "http://localhost:8000/image2/s1.webp",
+  "name": "Amul Fresh Malai Paneer",
+  "quantity": "500g",
+  "price": 99,
+  "cutprice": 199
+},
+{
+  "_id": {
+    "$oid": "65d798f7e083ee6d554a8b85"
+  },
+  "id": 3,
+  "catgeory": "Product for you",
+  "image": "http://localhost:8000/image2/s2.webp",
+  "name": "Tender Coconut",
+  "quantity": 1,
+  "price": 100,
+  "cutprice": 199
+},
+{
+  "_id": {
+    "$oid": "65d798f7e083ee6d554a8b86"
+  },
+  "id": 4,
+  "catgeory": "Product for you",
+  "image": "http://localhost:8000/image2/s3.webp",
+  "name": "Onion",
+  "quantity": "1kg",
+  "price": 60,
+  "cutprice": 99
+},
+{
+  "_id": {
+    "$oid": "65d798f7e083ee6d554a8b87"
+  },
+  "id": 5,
+  "catgeory": "Product for you",
+  "image": "http://localhost:8000/image2/s4.webp",
+  "name": "Mother Dairy Toned Fresh Milk",
+  "quantity": "500ml",
+  "price": 99,
+  "cutprice": 199
+},
+{
+  "_id": {
+    "$oid": "65d798f7e083ee6d554a8b88"
+  },
+  "id": 6,
+  "catgeory": "Product for you",
+  "image": "http://localhost:8000/image2/s5.webp",
+  "name": "Coriander Leaves",
+  "quantity": "150g",
+  "price": 20,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "65d798f7e083ee6d554a8b89"
+  },
+  "id": 7,
+  "catgeory": "Product for you",
+  "image": "http://localhost:8000/image2/s6.webp",
+  "name": "Amul Butter - Pasteurised",
+  "quantity": "250g",
+  "price": 199,
+  "cutprice": 399
+},
+{
+  "_id": {
+    "$oid": "65d798f7e083ee6d554a8b8a"
+  },
+  "id": 8,
+  "catgeory": "Product for you",
+  "image": "http://localhost:8000/image2/s8.webp",
+  "name": "Thums Up Soft Drink",
+  "quantity": "1L",
+  "price": 100,
+  "cutprice": 199
+},
+{
+  "_id": {
+    "$oid": "65d798f7e083ee6d554a8b8b"
+  },
+  "id": 9,
+  "catgeory": "Product for you",
+  "image": "http://localhost:8000/image2/s9.webp",
+  "name": "Fortune Sunlite Refined Sunflower Oil (Pouch)",
+  "quantity": "1L",
+  "price": 190,
+  "cutprice": 299
+},
+{
+  "_id": {
+    "$oid": "65d798f7e083ee6d554a8b8c"
+  },
+  "id": 10,
+  "catgeory": "Product for you",
+  "image": "http://localhost:8000/image2/s7.webp",
+  "name": "Leys",
+  "quantity": "300g",
+  "price": 50,
+  "cutprice": 99
+},
+{
+  "_id": {
+    "$oid": "65d798f7e083ee6d554a8b8d"
+  },
+  "id": 11,
+  "catgeory": "Product for you",
+  "image": "http://localhost:8000/image2/s10.webp",
+  "name": "Pomegranate",
+  "quantity": "500g",
+  "price": 200,
+  "cutprice": 399
+},
+{
+  "_id": {
+    "$oid": "65d798f7e083ee6d554a8b8e"
+  },
+  "id": 12,
+  "catgeory": "Product for you",
+  "image": "http://localhost:8000/image2/s11.webp",
+  "name": "Strawberry",
+  "quantity": "1kg",
+  "price": 300,
+  "cutprice": 499
+},
+{
+  "_id": {
+    "$oid": "65f9360b19a954ea504ade3a"
+  },
+  "id": 13,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/softd1.webp",
+  "name": "Thums Up Soft Drink Combo",
+  "quantity": "750ml X 2",
+  "price": 72,
+  "cutprice": 80
+},
+{
+  "_id": {
+    "$oid": "65f9360b19a954ea504ade3b"
+  },
+  "id": 14,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft2.webp",
+  "name": "Sprite Soft Drink 300 ml Combo",
+  "quantity": "300ml X 3",
+  "price": 108,
+  "cutprice": 120
+},
+{
+  "_id": {
+    "$oid": "65f9360b19a954ea504ade3c"
+  },
+  "id": 15,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft3.webp",
+  "name": "Pepsi Black Soft Drink Can",
+  "quantity": "250 ml",
+  "price": 35,
+  "cutprice": 40
+},
+{
+  "_id": {
+    "$oid": "65f9360b19a954ea504ade3d"
+  },
+  "id": 16,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft4.webp",
+  "name": "Mirinda Orange Soft Drink Can",
+  "quantity": "250 ml",
+  "price": 35,
+  "cutprice": 40
+},
+{
+  "_id": {
+    "$oid": "65f9360b19a954ea504ade3e"
+  },
+  "id": 17,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft5.webp",
+  "name": "Diet Coke (Can) Combo",
+  "quantity": "300ml X 3",
+  "price": 120,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "65f9360b19a954ea504ade3f"
+  },
+  "id": 18,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft6.webp",
+  "name": "7 Up Lemon Soft Drink Can",
+  "quantity": "250 ml",
+  "price": 40,
+  "cutprice": 45
+},
+{
+  "_id": {
+    "$oid": "65f9360b19a954ea504ade40"
+  },
+  "id": 19,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft7.webp",
+  "name": "Coca-Cola Soft Drink 750 ml Combo",
+  "quantity": "750ml X 3",
+  "price": 120,
+  "cutprice": 130
+},
+{
+  "_id": {
+    "$oid": "65f9360b19a954ea504ade41"
+  },
+  "id": 20,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft8.webp",
+  "name": "Fanta Orange Flavoured Soft Drink",
+  "quantity": "750ml",
+  "price": 40,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "65f9360b19a954ea504ade42"
+  },
+  "id": 21,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft9.webp",
+  "name": "Frooti Juice - Mango Bottle",
+  "quantity": "600ml",
+  "price": 40,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "65f9388719a954ea504ade43"
+  },
+  "id": 22,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft10.webp",
+  "name": "Paper Boat Lichi Juice",
+  "quantity": "600 ml",
+  "price": 38,
+  "cutprice": 40
+},
+{
+  "_id": {
+    "$oid": "65f9388719a954ea504ade44"
+  },
+  "id": 23,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft11.webp",
+  "name": "Appy Fizz Apple Juice Based Drink",
+  "quantity": "600ml ",
+  "price": 33,
+  "cutprice": 35
+},
+{
+  "_id": {
+    "$oid": "65f9388719a954ea504ade45"
+  },
+  "id": 24,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft12.webp",
+  "name": "Sting Energy Drink Pet",
+  "quantity": "250 ml",
+  "price": 20,
+  "cutprice": 40
+},
+{
+  "_id": {
+    "$oid": "65f9388719a954ea504ade46"
+  },
+  "id": 25,
+  "catgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft13.webp",
+  "name": "Red Bull Energy Drink Multican",
+  "quantity": "4 X 250 ml",
+  "price": 447,
+  "cutprice": 480
+},
+{
+  "_id": {
+    "$oid": "65f93bf219a954ea504ade47"
+  },
+  "id": 26,
+  "catgeory": "Drink",
+  "image": "http://localhost:8000/image2/cat_soft.webp",
+  "name": "Soft Drinks"
+},
+{
+  "_id": {
+    "$oid": "65f93bf219a954ea504ade48"
+  },
+  "id": 27,
+  "catgeory": " Drinks",
+  "image": "http://localhost:8000/image2/fruit_drink.webp",
+  "name": "Fruit_Juices"
+},
+{
+  "_id": {
+    "$oid": "65f93bf219a954ea504ade49"
+  },
+  "id": 28,
+  "catgeory": " Drinks",
+  "image": "http://localhost:8000/image2/water.webp",
+  "name": "Water"
+},
+{
+  "_id": {
+    "$oid": "65f93bf219a954ea504ade4a"
+  },
+  "id": 29,
+  "catgeory": " Drinks",
+  "image": "http://localhost:8000/image2/energydrink.webp",
+  "name": "Energy Drink"
+},
+{
+  "_id": {
+    "$oid": "65f93bf219a954ea504ade4b"
+  },
+  "id": 30,
+  "catgeory": " Drinks",
+  "image": "http://localhost:8000/image2/herbal.webp",
+  "name": "Herbal_Drink"
+},
+{
+  "_id": {
+    "$oid": "65f9408719a954ea504ade4c"
+  },
+  "id": 31,
+  "catgeory": " Drinks",
+  "image": "http://localhost:8000/image2/coco.webp",
+  "name": "Coconut_Water"
+},
+{
+  "_id": {
+    "$oid": "65f9408719a954ea504ade4d"
+  },
+  "id": 32,
+  "catgeory": " Drinks",
+  "image": "http://localhost:8000/image2/cold.webp",
+  "name": "Cold_Cofee_&_Ice_Tea"
+},
+{
+  "_id": {
+    "$oid": "65f94cf4b369df220c4b11ae"
+  },
+  "name": "kadrrr",
+  "phone_no": 999999999,
+  "email": "kad@gmail.com",
+  "password": "9999",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fdc6774e82b91bc0f94755"
+  },
+  "id": 33,
+  "catgeory": "Fruit_Juices",
+  "image": "http://localhost:8000/image2/fruitjuice1.webp",
+  "name": "Real Masala Mixed Fruit Juice 1 l Combo",
+  "quantity": "1L X 2",
+  "price": 120,
+  "cutprice": 150
+},
+{
+  "_id": {
+    "$oid": "65fdc6774e82b91bc0f94756"
+  },
+  "id": 34,
+  "catgeory": "Fruit_Juices",
+  "image": "http://localhost:8000/image2/fruitjuice2.webp",
+  "name": "B Natural Litchi Juice Tetrapack",
+  "quantity": "1L",
+  "price": 121,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "65fdc6774e82b91bc0f94757"
+  },
+  "id": 35,
+  "catgeory": "Fruit_Juices",
+  "image": "http://localhost:8000/image2/fruitjuice3.webp",
+  "name": "B Natual Cranberry Juice Tetrapack",
+  "quantity": "1L",
+  "price": 121,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "65fdc6774e82b91bc0f94758"
+  },
+  "id": 36,
+  "catgeory": "Fruit_Juices",
+  "image": "http://localhost:8000/image2/fruitjuice4.webp",
+  "name": "Real Fruit Power Cranberry Juice Tetrapack",
+  "quantity": "1L",
+  "price": 123,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "65fdc6774e82b91bc0f94759"
+  },
+  "id": 37,
+  "catgeory": "Fruit_Juices",
+  "image": "http://localhost:8000/image2/fruitjuice5.webp",
+  "name": "B Natual Mixed Juice Tetrapack",
+  "quantity": "1L",
+  "price": 121,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "65fdc6774e82b91bc0f9475a"
+  },
+  "id": 38,
+  "catgeory": "Fruit_Juices",
+  "image": "http://localhost:8000/image2/fruitjuice6.webp",
+  "name": "Tropicana 100% Mixed Fruit Juice Tetrapack",
+  "quantity": "1L",
+  "price": 101,
+  "cutprice": 125
+},
+{
+  "_id": {
+    "$oid": "65ffd229803c62a37bbfee0a"
+  },
+  "name": "mohd",
+  "phone_no": 84566,
+  "email": "njsd@gmail.com",
+  "password": "123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66013960908b9079f56349db"
+  },
+  "id": 39,
+  "catgeory": "Water",
+  "image": "http://localhost:8000/image2/water1.webp",
+  "name": "O'cean Mango & Passion Fruit Water",
+  "quantity": "500ml",
+  "price": 57,
+  "cutprice": 60
+},
+{
+  "_id": {
+    "$oid": "66013960908b9079f56349dc"
+  },
+  "id": 40,
+  "catgeory": "Water",
+  "image": "http://localhost:8000/image2/water2.webp",
+  "name": "Evocus Alkaline Black Water Pet",
+  "quantity": "500ml",
+  "price": 100,
+  "cutprice": 120
+},
+{
+  "_id": {
+    "$oid": "66013960908b9079f56349dd"
+  },
+  "id": 41,
+  "catgeory": "Water",
+  "image": "http://localhost:8000/image2/water3.webp",
+  "name": "Bisleri Mineral Water Bottle 5 l Combo",
+  "quantity": "5L X 3",
+  "price": 210,
+  "cutprice": 220
+},
+{
+  "_id": {
+    "$oid": "66013960908b9079f56349de"
+  },
+  "id": 42,
+  "catgeory": "Water",
+  "image": "http://localhost:8000/image2/water4.webp",
+  "name": "Aquafina Drinking Water Combo",
+  "quantity": "1L X 6",
+  "price": 120,
+  "cutprice": 130
+},
+{
+  "_id": {
+    "$oid": "66013960908b9079f56349df"
+  },
+  "id": 43,
+  "catgeory": "Water",
+  "image": "http://localhost:8000/image2/water5.webp",
+  "name": "Evocus Alkaline Mineral Water Pet",
+  "quantity": "500ml",
+  "price": 80,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "66013960908b9079f56349e0"
+  },
+  "id": 44,
+  "catgeory": "Water",
+  "image": "http://localhost:8000/image2/water6.webp",
+  "name": "Bisleri Packaged Drinking Water",
+  "quantity": "2l",
+  "price": 30,
+  "cutprice": 40
+},
+{
+  "_id": {
+    "$oid": "66016d225aa6d84cadfea32d"
+  },
+  "id": 45,
+  "catgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink1.webp",
+  "name": "Red Bull Energy Drink The Winter Pomegranate Can",
+  "quantity": "250ml",
+  "price": 125,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "66016d225aa6d84cadfea32e"
+  },
+  "id": 46,
+  "catgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink2.webp",
+  "name": "Red Bull Energy Drink Can",
+  "quantity": "250ml",
+  "price": 125,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "66016d225aa6d84cadfea32f"
+  },
+  "id": 47,
+  "catgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink3.webp",
+  "name": "Sting Combo",
+  "quantity": "250ml X 2",
+  "price": 60,
+  "cutprice": 70
+},
+{
+  "_id": {
+    "$oid": "66016d225aa6d84cadfea330"
+  },
+  "id": 48,
+  "catgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink4.webp",
+  "name": "Monster Energy Drink Can",
+  "quantity": "350",
+  "price": 110,
+  "cutprice": 125
+},
+{
+  "_id": {
+    "$oid": "66016d225aa6d84cadfea331"
+  },
+  "id": 49,
+  "catgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink5.webp",
+  "name": "Red Bull Energy Drink Sugar Free 250 ml Combo",
+  "quantity": "250 X 4",
+  "price": 410,
+  "cutprice": 500
+},
+{
+  "_id": {
+    "$oid": "66016d225aa6d84cadfea332"
+  },
+  "id": 50,
+  "catgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink6.webp",
+  "name": "Hell Energy Drink - Classic 250 ml Combo",
+  "quantity": "250 X 4",
+  "price": 240,
+  "cutprice": 300
+},
+{
+  "_id": {
+    "$oid": "6601abcc6ed71cd86373c9d9"
+  },
+  "id": 53,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/ch.PNG",
+  "name": "Chocolates"
+},
+{
+  "_id": {
+    "$oid": "6601abcc6ed71cd86373c9da"
+  },
+  "id": 54,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/ch2.webp",
+  "name": "Candies"
+},
+{
+  "_id": {
+    "$oid": "6601abcc6ed71cd86373c9db"
+  },
+  "id": 55,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/ch3.webp",
+  "name": "Syrups"
+},
+{
+  "_id": {
+    "$oid": "6601abcc6ed71cd86373c9dc"
+  },
+  "id": 56,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/ch4.webp",
+  "name": "Cakes & Rolls"
+},
+{
+  "_id": {
+    "$oid": "6601abcc6ed71cd86373c9dd"
+  },
+  "id": 57,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/ch5.webp",
+  "name": "Ice Cream & Frozen Dessert"
+},
+{
+  "_id": {
+    "$oid": "6601b0176ed71cd86373c9de"
+  },
+  "id": 58,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Chocolates",
+  "image": "http://localhost:8000/image2/coco1.webp",
+  "name": "Cadbury Dairy Milk SIlk Minis Chocolate 162 gms Combo",
+  "quantity": "162g X 4",
+  "price": 410,
+  "cutprice": 500
+},
+{
+  "_id": {
+    "$oid": "6601b0176ed71cd86373c9df"
+  },
+  "id": 59,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Chocolates",
+  "image": "http://localhost:8000/image2/coco2.webp",
+  "name": "Snickers Chocolate 45 gms Combo",
+  "quantity": "45g X 2",
+  "price": 100,
+  "cutprice": 130
+},
+{
+  "_id": {
+    "$oid": "6601b0176ed71cd86373c9e0"
+  },
+  "id": 60,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Chocolates",
+  "image": "http://localhost:8000/image2/coco3.webp",
+  "name": "Sugar Free D'lite Chocolate Gift Pack",
+  "quantity": "120g",
+  "price": 344,
+  "cutprice": 440
+},
+{
+  "_id": {
+    "$oid": "6601b0176ed71cd86373c9e1"
+  },
+  "id": 61,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Chocolates",
+  "image": "http://localhost:8000/image2/coco5.webp",
+  "name": "Cadbury Dairy Milk Silk Ganache Chocolate Bar",
+  "quantity": "146g",
+  "price": 180,
+  "cutprice": 190
+},
+{
+  "_id": {
+    "$oid": "6601b0176ed71cd86373c9e2"
+  },
+  "id": 62,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Chocolates",
+  "image": "http://localhost:8000/image2/coco6.webp",
+  "name": "Nova Nova Waffle Chips- Classic Chocolate Drizzle",
+  "quantity": "65g",
+  "price": 93,
+  "cutprice": 99
+},
+{
+  "_id": {
+    "$oid": "6601b0176ed71cd86373c9e3"
+  },
+  "id": 63,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Chocolates",
+  "image": "http://localhost:8000/image2/coco7.webp",
+  "name": "Hershey's Kisses Milk Chocolate Share Bag",
+  "quantity": "108g",
+  "price": 140,
+  "cutprice": 155
+},
+{
+  "_id": {
+    "$oid": "6601c3766ed71cd86373c9e4"
+  },
+  "id": 64,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Candies",
+  "image": "http://localhost:8000/image2/can1.webp",
+  "name": "Parle Melody Chocolaty",
+  "quantity": "162g",
+  "price": 100,
+  "cutprice": 110
+},
+{
+  "_id": {
+    "$oid": "6601c3766ed71cd86373c9e5"
+  },
+  "id": 65,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Candies",
+  "image": "http://localhost:8000/image2/can2.webp",
+  "name": "Parle Bigger Kaccha Mango Bite",
+  "quantity": "198g",
+  "price": 44,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "6601c3766ed71cd86373c9e6"
+  },
+  "id": 66,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Candies",
+  "image": "http://localhost:8000/image2/can3.webp",
+  "name": "Alpenliebe Juzt Jelly Strawberry Flavour",
+  "quantity": "148g",
+  "price": 46,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "6601c3766ed71cd86373c9e7"
+  },
+  "id": 67,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Candies",
+  "image": "http://localhost:8000/image2/can4.webp",
+  "name": "Candyman Choco Double Eclairs",
+  "quantity": "256g",
+  "price": 65,
+  "cutprice": 70
+},
+{
+  "_id": {
+    "$oid": "6601c3766ed71cd86373c9e8"
+  },
+  "id": 68,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Candies",
+  "image": "http://localhost:8000/image2/can5.webp",
+  "name": "Skittles Wildberry Bite-Size Fruit Flavoured Candy Pouch",
+  "quantity": "30.5g",
+  "price": 48,
+  "cutprice": 59
+},
+{
+  "_id": {
+    "$oid": "6601c3766ed71cd86373c9e9"
+  },
+  "id": 69,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Candies",
+  "image": "http://localhost:8000/image2/can6.webp",
+  "name": "Chupa Chups, Assorted flavour Long Tubes, 8 Pcs",
+  "quantity": "80g",
+  "price": 48,
+  "cutprice": 59
+},
+{
+  "_id": {
+    "$oid": "6601c3766ed71cd86373c9ea"
+  },
+  "id": 70,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Candies",
+  "image": "http://localhost:8000/image2/can7.webp",
+  "name": "Jolly Rancher Tropical",
+  "quantity": "380g",
+  "price": 748,
+  "cutprice": 959
+},
+{
+  "_id": {
+    "$oid": "6601c7526ed71cd86373c9eb"
+  },
+  "id": 71,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Syrups",
+  "image": "http://localhost:8000/image2/sy.webp",
+  "name": "Hershey's Chocolate Syrup",
+  "quantity": "380g",
+  "price": 100,
+  "cutprice": 119
+},
+{
+  "_id": {
+    "$oid": "6601c7526ed71cd86373c9ec"
+  },
+  "id": 72,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Syrups",
+  "image": "http://localhost:8000/image2/sy.webp",
+  "name": "Hershey's Chocolate Syrup",
+  "quantity": "623g",
+  "price": 229,
+  "cutprice": 239
+},
+{
+  "_id": {
+    "$oid": "6601c9b36ed71cd86373c9f0"
+  },
+  "id": 73,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Cakes & Rolls",
+  "image": "http://localhost:8000/image2/cake1.webp",
+  "name": "Britannia Gobbles Bar Cake - Fruity Fun 110 gms Combo",
+  "quantity": "120g X 3",
+  "price": 100,
+  "cutprice": 119
+},
+{
+  "_id": {
+    "$oid": "6601c9b36ed71cd86373c9f1"
+  },
+  "id": 74,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Cakes & Rolls",
+  "image": "http://localhost:8000/image2/cake2.webp",
+  "name": "Cadbury Chocobakes Choc Layered Cakes 126 gms Combo",
+  "quantity": "114g X 2",
+  "price": 229,
+  "cutprice": 239
+},
+{
+  "_id": {
+    "$oid": "6601c9b36ed71cd86373c9f2"
+  },
+  "id": 75,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Cakes & Rolls",
+  "image": "http://localhost:8000/image2/cake3.webp",
+  "name": "Winkies Swiss Roll Chocolate",
+  "quantity": "165g",
+  "price": 86,
+  "cutprice": 90
+},
+{
+  "_id": {
+    "$oid": "6601cead6ed71cd86373c9f3"
+  },
+  "id": 76,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Ice Cream & Frozen Dessert",
+  "image": "http://localhost:8000/image2/ice1.webp",
+  "name": "Yummo Butterscotch Ice Cream Cone 110 ml Combo",
+  "quantity": "2 Pieces",
+  "price": 58,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "6601cead6ed71cd86373c9f4"
+  },
+  "id": 77,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Ice Cream & Frozen Dessert",
+  "image": "http://localhost:8000/image2/ice2.webp",
+  "name": "Kwality Wall's Cornetto Double Chocolate Cone",
+  "quantity": "105ml",
+  "price": 48,
+  "cutprice": 80
+},
+{
+  "_id": {
+    "$oid": "6601cead6ed71cd86373c9f5"
+  },
+  "id": 78,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Ice Cream & Frozen Dessert",
+  "image": "http://localhost:8000/image2/ice3.webp",
+  "name": "Cream Bell Cassata Chops Ice Cream",
+  "quantity": "150 ml",
+  "price": 66,
+  "cutprice": 70
+},
+{
+  "_id": {
+    "$oid": "6601cead6ed71cd86373c9f6"
+  },
+  "id": 79,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Ice Cream & Frozen Dessert",
+  "image": "http://localhost:8000/image2/ice4.webp",
+  "name": "Cream Bell Matka Kulfi Jar",
+  "quantity": "90 ml",
+  "price": 50,
+  "cutprice": 70
+},
+{
+  "_id": {
+    "$oid": "6601cead6ed71cd86373c9f7"
+  },
+  "id": 80,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Ice Cream & Frozen Dessert",
+  "image": "http://localhost:8000/image2/ice5.webp",
+  "name": "Go Zero - Cold Brew Coffee - Low Calorie Icecream 100 ml Combo",
+  "quantity": "90 ml",
+  "price": 250,
+  "cutprice": 270
+},
+{
+  "_id": {
+    "$oid": "6601cead6ed71cd86373c9f8"
+  },
+  "id": 81,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Ice Cream & Frozen Dessert",
+  "image": "http://localhost:8000/image2/ice6.webp",
+  "name": "Amul King Alphonso Gold Ice Cream",
+  "quantity": "1l",
+  "price": 260,
+  "cutprice": 280
+},
+{
+  "_id": {
+    "$oid": "6601cead6ed71cd86373c9f9"
+  },
+  "id": 82,
+  "catgeory": "Sweet_Tooth",
+  "subcatgeory": "Ice Cream & Frozen Dessert",
+  "image": "http://localhost:8000/image2/ice7.webp",
+  "name": "Kwality walls Choco Brownie Fudge Tub Frozen Dessert",
+  "quantity": "700 ml",
+  "price": 256,
+  "cutprice": 310
+},
+{
+  "_id": {
+    "$oid": "66025c342d9fb429e6ec8845"
+  },
+  "id": 83,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/chips.webp",
+  "name": "Chips & Crisps"
+},
+{
+  "_id": {
+    "$oid": "66025c342d9fb429e6ec8846"
+  },
+  "id": 84,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/popcorn.webp",
+  "name": "Popcon"
+},
+{
+  "_id": {
+    "$oid": "66025c342d9fb429e6ec8847"
+  },
+  "id": 85,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/rusks.webp",
+  "name": "Rusks & Wafers"
+},
+{
+  "_id": {
+    "$oid": "66025c342d9fb429e6ec8848"
+  },
+  "id": 86,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/bujia.webp",
+  "name": "Bhujia & Mixtures"
+},
+{
+  "_id": {
+    "$oid": "660265642d9fb429e6ec8849"
+  },
+  "id": 87,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Chips & Crisps",
+  "image": "http://localhost:8000/image2/chips1.webp",
+  "name": "Lay's American Style Cream & Onion Potato Chips Combo",
+  "quantity": "73g X 2",
+  "price": 60,
+  "cutprice": 65
+},
+{
+  "_id": {
+    "$oid": "660265642d9fb429e6ec884a"
+  },
+  "id": 88,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Chips & Crisps",
+  "image": "http://localhost:8000/image2/chips2.webp",
+  "name": "RiteBite Max Protein Chips Cheese & Jalapeno Protein Chips",
+  "quantity": "60g",
+  "price": 45,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "660265642d9fb429e6ec884b"
+  },
+  "id": 89,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Chips & Crisps",
+  "image": "http://localhost:8000/image2/chips3.webp",
+  "name": "Kurkure Masala Munch Combo",
+  "quantity": "100g X 2",
+  "price": 52,
+  "cutprice": 60
+},
+{
+  "_id": {
+    "$oid": "660265642d9fb429e6ec884c"
+  },
+  "id": 90,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Chips & Crisps",
+  "image": "http://localhost:8000/image2/chips4.webp",
+  "name": "Snackible Peri Peri Ragi Chips",
+  "quantity": "55g",
+  "price": 48,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "660265642d9fb429e6ec884d"
+  },
+  "id": 91,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Chips & Crisps",
+  "image": "http://localhost:8000/image2/chips5.webp",
+  "name": "Orion Turtle Chips - Mexican lime Korean corn chips",
+  "quantity": "70g",
+  "price": 57,
+  "cutprice": 60
+},
+{
+  "_id": {
+    "$oid": "660265642d9fb429e6ec884e"
+  },
+  "id": 92,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Chips & Crisps",
+  "image": "http://localhost:8000/image2/chips6.webp",
+  "name": "Lay's West Indies Hot 'n' Sweet Chilli Potato Chips",
+  "quantity": "50g",
+  "price": 20,
+  "cutprice": 25
+},
+{
+  "_id": {
+    "$oid": "660265642d9fb429e6ec884f"
+  },
+  "id": 93,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Popcon",
+  "image": "http://localhost:8000/image2/popcorn.webp",
+  "name": "Act II Microwave Cheese Delite Popcorn",
+  "quantity": "50g",
+  "price": 20,
+  "cutprice": 25
+},
+{
+  "_id": {
+    "$oid": "660265642d9fb429e6ec8850"
+  },
+  "id": 94,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Rusks & Wafers",
+  "image": "http://localhost:8000/image2/rusks1.webp",
+  "name": "Britannia Toastea Premium Bake Rusk 700 gms Combo",
+  "quantity": "700g X 2",
+  "price": 210,
+  "cutprice": 225
+},
+{
+  "_id": {
+    "$oid": "660265642d9fb429e6ec8851"
+  },
+  "id": 95,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Rusks & Wafers",
+  "image": "http://localhost:8000/image2/rusks3.webp",
+  "name": "Parle Elaichi Rusk 300 gms Combo",
+  "quantity": "300g X 2",
+  "price": 110,
+  "cutprice": 125
+},
+{
+  "_id": {
+    "$oid": "660265642d9fb429e6ec8852"
+  },
+  "id": 96,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Rusks & Wafers",
+  "image": "http://localhost:8000/image2/rusks2.webp",
+  "name": "Palekar Makkhan Rusk",
+  "quantity": "300g",
+  "price": 51,
+  "cutprice": 55
+},
+{
+  "_id": {
+    "$oid": "660265642d9fb429e6ec8853"
+  },
+  "id": 97,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Bhujia & Mixtures",
+  "image": "http://localhost:8000/image2/alu1.webp",
+  "name": "Haldiram Aloo Bhujia",
+  "quantity": "400g",
+  "price": 90,
+  "cutprice": 95
+},
+{
+  "_id": {
+    "$oid": "660265642d9fb429e6ec8854"
+  },
+  "id": 98,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Bhujia & Mixtures",
+  "image": "http://localhost:8000/image2/alu2.webp",
+  "name": "Haldirams Soya Sticks",
+  "quantity": "200g",
+  "price": 45,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "6603d4ec9095bfbd1c465a6e"
+  },
+  "id": 87,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Chips & Crisps",
+  "image": "http://localhost:8000/image2/chips1.webp",
+  "name": "Lay's American Style Cream & Onion Potato Chips Combo",
+  "quantity": "73g X 2",
+  "price": 60,
+  "cutprice": 65
+},
+{
+  "_id": {
+    "$oid": "6603d4ec9095bfbd1c465a6f"
+  },
+  "id": 88,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Chips & Crisps",
+  "image": "http://localhost:8000/image2/chips2.webp",
+  "name": "RiteBite Max Protein Chips Cheese & Jalapeno Protein Chips",
+  "quantity": "60g",
+  "price": 45,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "6603d4ec9095bfbd1c465a70"
+  },
+  "id": 89,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Chips & Crisps",
+  "image": "http://localhost:8000/image2/chips3.webp",
+  "name": "Kurkure Masala Munch Combo",
+  "quantity": "100g X 2",
+  "price": 52,
+  "cutprice": 60
+},
+{
+  "_id": {
+    "$oid": "6603d4ec9095bfbd1c465a71"
+  },
+  "id": 90,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Chips & Crisps",
+  "image": "http://localhost:8000/image2/chips4.webp",
+  "name": "Snackible Peri Peri Ragi Chips",
+  "quantity": "55g",
+  "price": 48,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "6603d4ec9095bfbd1c465a72"
+  },
+  "id": 91,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Chips & Crisps",
+  "image": "http://localhost:8000/image2/chips5.webp",
+  "name": "Orion Turtle Chips - Mexican lime Korean corn chips",
+  "quantity": "70g",
+  "price": 57,
+  "cutprice": 60
+},
+{
+  "_id": {
+    "$oid": "6603d4ec9095bfbd1c465a73"
+  },
+  "id": 92,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Chips & Crisps",
+  "image": "http://localhost:8000/image2/chips6.webp",
+  "name": "Lay's West Indies Hot 'n' Sweet Chilli Potato Chips",
+  "quantity": "50g",
+  "price": 20,
+  "cutprice": 25
+},
+{
+  "_id": {
+    "$oid": "6603d4ec9095bfbd1c465a74"
+  },
+  "id": 93,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Popcon",
+  "image": "http://localhost:8000/image2/popcorn.webp",
+  "name": "Act II Microwave Cheese Delite Popcorn",
+  "quantity": "50g",
+  "price": 20,
+  "cutprice": 25
+},
+{
+  "_id": {
+    "$oid": "6603d4ec9095bfbd1c465a75"
+  },
+  "id": 94,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Rusks & Wafers",
+  "image": "http://localhost:8000/image2/rusks1.webp",
+  "name": "Britannia Toastea Premium Bake Rusk 700 gms Combo",
+  "quantity": "700g X 2",
+  "price": 210,
+  "cutprice": 225
+},
+{
+  "_id": {
+    "$oid": "6603d4ec9095bfbd1c465a76"
+  },
+  "id": 95,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Rusks & Wafers",
+  "image": "http://localhost:8000/image2/rusks3.webp",
+  "name": "Parle Elaichi Rusk 300 gms Combo",
+  "quantity": "300g X 2",
+  "price": 110,
+  "cutprice": 125
+},
+{
+  "_id": {
+    "$oid": "6603d4ec9095bfbd1c465a77"
+  },
+  "id": 96,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Rusks & Wafers",
+  "image": "http://localhost:8000/image2/rusks2.webp",
+  "name": "Palekar Makkhan Rusk",
+  "quantity": "300g",
+  "price": 51,
+  "cutprice": 55
+},
+{
+  "_id": {
+    "$oid": "6603d4ec9095bfbd1c465a78"
+  },
+  "id": 97,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Bhujia & Mixtures",
+  "image": "http://localhost:8000/image2/alu1.webp",
+  "name": "Haldiram Aloo Bhujia",
+  "quantity": "400g",
+  "price": 90,
+  "cutprice": 95
+},
+{
+  "_id": {
+    "$oid": "6603d4ec9095bfbd1c465a79"
+  },
+  "id": 98,
+  "catgeory": "Snacks_Munchies",
+  "subcatgeory": "Bhujia & Mixtures",
+  "image": "http://localhost:8000/image2/alu2.webp",
+  "name": "Haldirams Soya Sticks",
+  "quantity": "200g",
+  "price": 45,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a7a"
+  },
+  "id": 13,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/softd1.webp",
+  "name": "Thums Up Soft Drink Combo",
+  "quantity": "750ml X 2",
+  "price": 72,
+  "cutprice": 80
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a7b"
+  },
+  "id": 14,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft2.webp",
+  "name": "Sprite Soft Drink 300 ml Combo",
+  "quantity": "300ml X 3",
+  "price": 108,
+  "cutprice": 120
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a7c"
+  },
+  "id": 15,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft3.webp",
+  "name": "Pepsi Black Soft Drink Can",
+  "quantity": "250 ml",
+  "price": 35,
+  "cutprice": 40
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a7d"
+  },
+  "id": 16,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft4.webp",
+  "name": "Mirinda Orange Soft Drink Can",
+  "quantity": "250 ml",
+  "price": 35,
+  "cutprice": 40
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a7e"
+  },
+  "id": 17,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft5.webp",
+  "name": "Diet Coke (Can) Combo",
+  "quantity": "300ml X 3",
+  "price": 120,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a7f"
+  },
+  "id": 18,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft6.webp",
+  "name": "7 Up Lemon Soft Drink Can",
+  "quantity": "250 ml",
+  "price": 40,
+  "cutprice": 45
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a80"
+  },
+  "id": 19,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft7.webp",
+  "name": "Coca-Cola Soft Drink 750 ml Combo",
+  "quantity": "750ml X 3",
+  "price": 120,
+  "cutprice": 130
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a81"
+  },
+  "id": 20,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft8.webp",
+  "name": "Fanta Orange Flavoured Soft Drink",
+  "quantity": "750ml",
+  "price": 40,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a82"
+  },
+  "id": 21,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft9.webp",
+  "name": "Frooti Juice - Mango Bottle",
+  "quantity": "600ml",
+  "price": 40,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a83"
+  },
+  "id": 22,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft10.webp",
+  "name": "Paper Boat Lichi Juice",
+  "quantity": "600 ml",
+  "price": 38,
+  "cutprice": 40
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a84"
+  },
+  "id": 23,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft11.webp",
+  "name": "Appy Fizz Apple Juice Based Drink",
+  "quantity": "600ml ",
+  "price": 33,
+  "cutprice": 35
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a85"
+  },
+  "id": 24,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft12.webp",
+  "name": "Sting Energy Drink Pet",
+  "quantity": "250 ml",
+  "price": 20,
+  "cutprice": 40
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a86"
+  },
+  "id": 25,
+  "catgeory": "Drinks",
+  "subcatgeory": "Soft Drinks",
+  "image": "http://localhost:8000/image2/soft13.webp",
+  "name": "Red Bull Energy Drink Multican",
+  "quantity": "4 X 250 ml",
+  "price": 447,
+  "cutprice": 480
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a87"
+  },
+  "id": 26,
+  "catgeory": "Drinks",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/cat_soft.webp",
+  "name": "Soft Drinks"
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a88"
+  },
+  "id": 27,
+  "catgeory": "Drinks",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/fruit_drink.webp",
+  "name": "Fruit Juices"
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a89"
+  },
+  "id": 28,
+  "catgeory": "Drinks",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/water.webp",
+  "name": "Water"
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a8a"
+  },
+  "id": 29,
+  "catgeory": "Drinks",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/energydrink.webp",
+  "name": "Energy Drink"
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a8b"
+  },
+  "id": 30,
+  "catgeory": "Drinks",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/herbal.webp",
+  "name": "Herbal Drink"
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a8c"
+  },
+  "id": 31,
+  "catgeory": "Drinks",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/coco.webp",
+  "name": "Coconut Water"
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a8d"
+  },
+  "id": 33,
+  "catgeory": "Drinks",
+  "subcatgeory": "Fruit Juices",
+  "image": "http://localhost:8000/image2/fruitjuice1.webp",
+  "name": "Real Masala Mixed Fruit Juice 1 l Combo",
+  "quantity": "1L X 2",
+  "price": 120,
+  "cutprice": 150
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a8e"
+  },
+  "id": 34,
+  "catgeory": "Drinks",
+  "subcatgeory": "Fruit Juices",
+  "image": "http://localhost:8000/image2/fruitjuice2.webp",
+  "name": "B Natural Litchi Juice Tetrapack",
+  "quantity": "1L",
+  "price": 121,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a8f"
+  },
+  "id": 35,
+  "catgeory": "Drinks",
+  "subcatgeory": "Fruit Juices",
+  "image": "http://localhost:8000/image2/fruitjuice3.webp",
+  "name": "B Natual Cranberry Juice Tetrapack",
+  "quantity": "1L",
+  "price": 121,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a90"
+  },
+  "id": 36,
+  "catgeory": "Drinks",
+  "subcatgeory": "Fruit Juices",
+  "image": "http://localhost:8000/image2/fruitjuice4.webp",
+  "name": "Real Fruit Power Cranberry Juice Tetrapack",
+  "quantity": "1L",
+  "price": 123,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a91"
+  },
+  "id": 37,
+  "catgeory": "Drinks",
+  "subcatgeory": "Fruit Juices",
+  "image": "http://localhost:8000/image2/fruitjuice5.webp",
+  "name": "B Natual Mixed Juice Tetrapack",
+  "quantity": "1L",
+  "price": 121,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a92"
+  },
+  "id": 38,
+  "catgeory": "Drinks",
+  "subcatgeory": "Fruit Juices",
+  "image": "http://localhost:8000/image2/fruitjuice6.webp",
+  "name": "Tropicana 100% Mixed Fruit Juice Tetrapack",
+  "quantity": "1L",
+  "price": 101,
+  "cutprice": 125
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a93"
+  },
+  "id": 39,
+  "catgeory": "Drinks",
+  "subcatgeory": "Water",
+  "image": "http://localhost:8000/image2/water1.webp",
+  "name": "O'cean Mango & Passion Fruit Water",
+  "quantity": "500ml",
+  "price": 57,
+  "cutprice": 60
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a94"
+  },
+  "id": 40,
+  "catgeory": "Drinks",
+  "subcatgeory": "Water",
+  "image": "http://localhost:8000/image2/water2.webp",
+  "name": "Evocus Alkaline Black Water Pet",
+  "quantity": "500ml",
+  "price": 100,
+  "cutprice": 120
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a95"
+  },
+  "id": 41,
+  "catgeory": "Drinks",
+  "subcatgeory": "Water",
+  "image": "http://localhost:8000/image2/water3.webp",
+  "name": "Bisleri Mineral Water Bottle 5 l Combo",
+  "quantity": "5L X 3",
+  "price": 210,
+  "cutprice": 220
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a96"
+  },
+  "id": 42,
+  "catgeory": "Drinks",
+  "subcatgeory": "Water",
+  "image": "http://localhost:8000/image2/water4.webp",
+  "name": "Aquafina Drinking Water Combo",
+  "quantity": "1L X 6",
+  "price": 120,
+  "cutprice": 130
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a97"
+  },
+  "id": 43,
+  "catgeory": "Drinks",
+  "subcatgeory": "Water",
+  "image": "http://localhost:8000/image2/water5.webp",
+  "name": "Evocus Alkaline Mineral Water Pet",
+  "quantity": "500ml",
+  "price": 80,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a98"
+  },
+  "id": 44,
+  "catgeory": "Drinks",
+  "subcatgeory": "Water",
+  "image": "http://localhost:8000/image2/water6.webp",
+  "name": "Bisleri Packaged Drinking Water",
+  "quantity": "2l",
+  "price": 30,
+  "cutprice": 40
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a99"
+  },
+  "id": 45,
+  "catgeory": "Drinks",
+  "subcatgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink1.webp",
+  "name": "Red Bull Energy Drink The Winter Pomegranate Can",
+  "quantity": "250ml",
+  "price": 125,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a9a"
+  },
+  "id": 46,
+  "catgeory": "Drinks",
+  "subcatgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink2.webp",
+  "name": "Red Bull Energy Drink Can",
+  "quantity": "250ml",
+  "price": 125,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a9b"
+  },
+  "id": 47,
+  "catgeory": "Drinks",
+  "subcatgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink3.webp",
+  "name": "Sting Combo",
+  "quantity": "250ml X 2",
+  "price": 60,
+  "cutprice": 70
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a9c"
+  },
+  "id": 48,
+  "catgeory": "Drinks",
+  "subcatgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink4.webp",
+  "name": "Monster Energy Drink Can",
+  "quantity": "350",
+  "price": 110,
+  "cutprice": 125
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a9d"
+  },
+  "id": 49,
+  "catgeory": "Drinks",
+  "subcatgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink5.webp",
+  "name": "Red Bull Energy Drink Sugar Free 250 ml Combo",
+  "quantity": "250 X 4",
+  "price": 410,
+  "cutprice": 500
+},
+{
+  "_id": {
+    "$oid": "6603d9aa9095bfbd1c465a9e"
+  },
+  "id": 50,
+  "catgeory": "Drinks",
+  "subcatgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink6.webp",
+  "name": "Hell Energy Drink - Classic 250 ml Combo",
+  "quantity": "250 X 4",
+  "price": 240,
+  "cutprice": 300
+},
+{
+  "_id": {
+    "$oid": "6615471f2b1dc0588b1cb683"
+  },
+  "id": 99,
+  "catgeory": "Biscuits",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/cu1.webp",
+  "name": "Cookies"
+},
+{
+  "_id": {
+    "$oid": "6615471f2b1dc0588b1cb684"
+  },
+  "id": 100,
+  "catgeory": "Biscuits",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/sal1.webp",
+  "name": "Salty & Crackers"
+},
+{
+  "_id": {
+    "$oid": "6615471f2b1dc0588b1cb685"
+  },
+  "id": 101,
+  "catgeory": "Biscuits",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/dig1.webp",
+  "name": "Digestives"
+},
+{
+  "_id": {
+    "$oid": "6615471f2b1dc0588b1cb686"
+  },
+  "id": 102,
+  "catgeory": "Biscuits",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/cr1.webp",
+  "name": "CreamFiles"
+},
+{
+  "_id": {
+    "$oid": "6615471f2b1dc0588b1cb687"
+  },
+  "id": 103,
+  "catgeory": "Biscuits",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/combos1.webp",
+  "name": "Combos"
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb688"
+  },
+  "id": 104,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Cookies",
+  "image": "http://localhost:8000/image2/cu2.webp",
+  "name": "Unibic Cashew Badam Cookies",
+  "quantity": "300",
+  "price": 71,
+  "cutprice": 125
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb689"
+  },
+  "id": 105,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Cookies",
+  "image": "http://localhost:8000/image2/cu3.webp",
+  "name": "Sunfeast All Rounder Light & Crunchy Potato Biscuit With Chatpata Masala",
+  "quantity": "285",
+  "price": 91,
+  "cutprice": 150
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb68a"
+  },
+  "id": 106,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Cookies",
+  "image": "http://localhost:8000/image2/cu4.webp",
+  "name": "Unibic Snapper Cream & Onion",
+  "quantity": "300",
+  "price": 90,
+  "cutprice": 150
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb68b"
+  },
+  "id": 107,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Cookies",
+  "image": "http://localhost:8000/image2/cu5.webp",
+  "name": "Sunfeast Dark Fantasy Choco Fills, Original Filled Cookies with Choco Crème",
+  "quantity": "275",
+  "price": 100,
+  "cutprice": 170
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb68c"
+  },
+  "id": 108,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Cookies",
+  "image": "http://localhost:8000/image2/cu6.webp",
+  "name": "Britannia Tiger Krunch Biscuits",
+  "quantity": "400",
+  "price": 73,
+  "cutprice": 140
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb68d"
+  },
+  "id": 109,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Salty & Crackers",
+  "image": "http://localhost:8000/image2/sal2.webp",
+  "name": "Sunfeast All Rounder Light & Crunchy Potato Biscuit With Chatpata Masala",
+  "quantity": "282",
+  "price": 91,
+  "cutprice": 150
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb68e"
+  },
+  "id": 110,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Salty & Crackers",
+  "image": "http://localhost:8000/image2/sal3.webp",
+  "name": "Unibic Snapper Cream & Onion",
+  "quantity": "300",
+  "price": 90,
+  "cutprice": 150
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb68f"
+  },
+  "id": 111,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Salty & Crackers",
+  "image": "http://localhost:8000/image2/sal4.webp",
+  "name": "Parle Monaco Classic Salty Biscuits",
+  "quantity": "700",
+  "price": 100,
+  "cutprice": 120
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb690"
+  },
+  "id": 112,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Digestives",
+  "image": "http://localhost:8000/image2/dig2.webp",
+  "name": "Britannia NutriChoice Oats Orange Almond Cookies 75 gms Combo",
+  "quantity": "75 X 3",
+  "price": 72,
+  "cutprice": 75
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb691"
+  },
+  "id": 113,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Digestives",
+  "image": "http://localhost:8000/image2/dig3.webp",
+  "name": "Sunfeast Farmlite Biscuit - Cookies - Oats And Chocolate 150 gms Combo",
+  "quantity": "150g X 2",
+  "price": 114,
+  "cutprice": 130
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb692"
+  },
+  "id": 114,
+  "catgeory": "Biscuits",
+  "subcatgeory": "CreamFiles",
+  "image": "http://localhost:8000/image2/cr2.webp",
+  "name": "Cadbury Oreo Vanilla Flavour Creme Sandwich Biscuit",
+  "quantity": "150g ",
+  "price": 40,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb693"
+  },
+  "id": 115,
+  "catgeory": "Biscuits",
+  "subcatgeory": "CreamFiles",
+  "image": "http://localhost:8000/image2/cr3.webp",
+  "name": "Sunfeast Dark Fantasy Choco Creme",
+  "quantity": "275g ",
+  "price": 53,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb694"
+  },
+  "id": 116,
+  "catgeory": "Biscuits",
+  "subcatgeory": "CreamFiles",
+  "image": "http://localhost:8000/image2/cr4.webp",
+  "name": "Cadbury Chocobakes ChocFilled Cookies",
+  "quantity": "150g",
+  "price": 68,
+  "cutprice": 80
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb695"
+  },
+  "id": 117,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Combos",
+  "image": "http://localhost:8000/image2/combos2.webp",
+  "name": "Dukes Waffy Chocolate Wafers 60 gms Combo",
+  "quantity": "60g X 2",
+  "price": 50,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb696"
+  },
+  "id": 118,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Combos",
+  "image": "http://localhost:8000/image2/dig2.webp",
+  "name": "Britannia NutriChoice Oats Orange Almond Cookies 75 gms Combo",
+  "quantity": "75 X 3",
+  "price": 72,
+  "cutprice": 75
+},
+{
+  "_id": {
+    "$oid": "66154f3c2b1dc0588b1cb697"
+  },
+  "id": 119,
+  "catgeory": "Biscuits",
+  "subcatgeory": "Combos",
+  "image": "http://localhost:8000/image2/dig3.webp",
+  "name": "Sunfeast Farmlite Biscuit - Cookies - Oats And Chocolate 150 gms Combo",
+  "quantity": "150g X 2",
+  "price": 114,
+  "cutprice": 130
+},
+{
+  "_id": {
+    "$oid": "6615527d2b1dc0588b1cb698"
+  },
+  "id": 120,
+  "catgeory": "Breakfast",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/ots1.webp",
+  "name": "Muesli & Ots"
+},
+{
+  "_id": {
+    "$oid": "6615527d2b1dc0588b1cb699"
+  },
+  "id": 121,
+  "catgeory": "Breakfast",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/k1.webp",
+  "name": "Ketchup & Sauces"
+},
+{
+  "_id": {
+    "$oid": "6615527d2b1dc0588b1cb69a"
+  },
+  "id": 122,
+  "catgeory": "Breakfast",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/cl1.webp",
+  "name": "Breakfast Cereals"
+},
+{
+  "_id": {
+    "$oid": "6615527d2b1dc0588b1cb69b"
+  },
+  "id": 123,
+  "catgeory": "Breakfast",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/p1.webp",
+  "name": "Peanut Butter"
+},
+{
+  "_id": {
+    "$oid": "661556312b1dc0588b1cb69c"
+  },
+  "id": 124,
+  "catgeory": "Breakfast",
+  "subcatgeory": "Muesli & Ots",
+  "image": "http://localhost:8000/image2/ots2.webp",
+  "name": "Saffola Oats with Nutty Chocolate, Healthy & Tasty, Anytime Snack",
+  "quantity": 400,
+  "price": 185,
+  "cutprice": 199
+},
+{
+  "_id": {
+    "$oid": "661556312b1dc0588b1cb69d"
+  },
+  "id": 125,
+  "catgeory": "Breakfast",
+  "subcatgeory": "Muesli & Ots",
+  "image": "http://localhost:8000/image2/ots3.webp",
+  "name": "Saffola Veggie Twist Masala Oats",
+  "quantity": 500,
+  "price": 185,
+  "cutprice": 200
+},
+{
+  "_id": {
+    "$oid": "661556312b1dc0588b1cb69e"
+  },
+  "id": 126,
+  "catgeory": "Breakfast",
+  "subcatgeory": "Muesli & Ots",
+  "image": "http://localhost:8000/image2/ots4.webp",
+  "name": "Bagrry’s Rolled Oats Jar High Fibre Premium Rolled Oats Protein Rich Breakfast Cereal Wholegrain Breakfast",
+  "quantity": 1000,
+  "price": 179,
+  "cutprice": 200
+},
+{
+  "_id": {
+    "$oid": "661556312b1dc0588b1cb69f"
+  },
+  "id": 127,
+  "catgeory": "Breakfast",
+  "subcatgeory": "Muesli & Ots",
+  "image": "http://localhost:8000/image2/ots5.webp",
+  "name": "Quaker Oats Fruit And Nut Muesli",
+  "quantity": 700,
+  "price": 352,
+  "cutprice": 440
+},
+{
+  "_id": {
+    "$oid": "661556312b1dc0588b1cb6a0"
+  },
+  "id": 128,
+  "catgeory": "Breakfast",
+  "subcatgeory": "Ketchup & Sauces",
+  "image": "http://localhost:8000/image2/k1.webp",
+  "name": "Veeba Tomato Ketchup - Chef's Special",
+  "quantity": 700,
+  "price": 88,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "661556312b1dc0588b1cb6a1"
+  },
+  "id": 129,
+  "catgeory": "Breakfast",
+  "subcatgeory": "Ketchup & Sauces",
+  "image": "http://localhost:8000/image2/k3.webp",
+  "name": "Veeba Sriracha Chilli Hot Sauce",
+  "quantity": 320,
+  "price": 175,
+  "cutprice": 200
+},
+{
+  "_id": {
+    "$oid": "661556312b1dc0588b1cb6a2"
+  },
+  "id": 130,
+  "catgeory": "Breakfast",
+  "subcatgeory": "Ketchup & Sauces",
+  "image": "http://localhost:8000/image2/k4.webp",
+  "name": "VEEBA PASTA & PIZZA SAUCE 280 gms Combo",
+  "quantity": "200 X 2",
+  "price": 88,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "661556312b1dc0588b1cb6a3"
+  },
+  "id": 131,
+  "catgeory": "Breakfast",
+  "subcatgeory": "Breakfast Cereals",
+  "image": "http://localhost:8000/image2/cl2.webp",
+  "name": "Slurrp Farm Millet No Maida Chocolate Breakfast Cereal Stars ",
+  "quantity": 400,
+  "price": 299,
+  "cutprice": 350
+},
+{
+  "_id": {
+    "$oid": "661556312b1dc0588b1cb6a4"
+  },
+  "id": 132,
+  "catgeory": "Breakfast",
+  "subcatgeory": "Breakfast Cereals",
+  "image": "http://localhost:8000/image2/cl2.webp",
+  "name": "Kellogg's Chocos Fills Double Chocolaty",
+  "quantity": 400,
+  "price": 99,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "661556312b1dc0588b1cb6a5"
+  },
+  "id": 123,
+  "catgeory": "Breakfast",
+  "subcatgeory": "Peanut Butter",
+  "image": "http://localhost:8000/image2/p2.webp",
+  "name": "Pintola Creamy High Protein Peanut Butter Dark Chocolate",
+  "quantity": 400,
+  "price": 99,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "66155aecaf3234829810482f"
+  },
+  "id": 124,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/fr1.webp",
+  "name": "Fresh Fruits"
+},
+{
+  "_id": {
+    "$oid": "66155aecaf32348298104830"
+  },
+  "id": 125,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/veg1.webp",
+  "name": "Fresh Vegetables"
+},
+{
+  "_id": {
+    "$oid": "66155aecaf32348298104831"
+  },
+  "id": 126,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/le1.webp",
+  "name": "Leafy,Herbs & Seasonings"
+},
+{
+  "_id": {
+    "$oid": "66155aecaf32348298104832"
+  },
+  "id": 127,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/cut1.webp",
+  "name": "Cuts & Sprouts"
+},
+{
+  "_id": {
+    "$oid": "66155aecaf32348298104833"
+  },
+  "id": 128,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/dr1.webp",
+  "name": "Dried Fruits"
+},
+{
+  "_id": {
+    "$oid": "66156007af32348298104836"
+  },
+  "id": 129,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Fresh Fruits",
+  "image": "http://localhost:8000/image2/fr2.webp",
+  "name": "Mango Alphonso (Hapus)",
+  "quantity": "6 pcs (Approx. 1kg - 1.2kg)",
+  "price": 459,
+  "cutprice": 500
+},
+{
+  "_id": {
+    "$oid": "66156007af32348298104837"
+  },
+  "id": 130,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Fresh Fruits",
+  "image": "http://localhost:8000/image2/fr3.webp",
+  "name": "Watermelon Kiran",
+  "quantity": "1 pc (Approx. 1.8 - 2.5 kg)",
+  "price": 63,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "66156007af32348298104838"
+  },
+  "id": 131,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Fresh Fruits",
+  "image": "http://localhost:8000/image2/fr4.webp",
+  "name": "Grapes Green",
+  "quantity": "500 g X 2",
+  "price": 146,
+  "cutprice": 188
+},
+{
+  "_id": {
+    "$oid": "66156007af32348298104839"
+  },
+  "id": 132,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Fresh Fruits",
+  "image": "http://localhost:8000/image2/fr5.webp",
+  "name": "Banana Elaichi / Yelakki Semi Ripe",
+  "quantity": "500",
+  "price": 67,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "66156007af3234829810483a"
+  },
+  "id": 133,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Fresh Fruits",
+  "image": "http://localhost:8000/image2/fr6.webp",
+  "name": "Pomegranate",
+  "quantity": "4 piece",
+  "price": 146,
+  "cutprice": 188
+},
+{
+  "_id": {
+    "$oid": "66156007af3234829810483b"
+  },
+  "id": 134,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Fresh Vegetables",
+  "image": "http://localhost:8000/image2/veg2.webp",
+  "name": "Tomato Local",
+  "quantity": "1kg X 2",
+  "price": 146,
+  "cutprice": 188
+},
+{
+  "_id": {
+    "$oid": "66156007af3234829810483c"
+  },
+  "id": 135,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Fresh Vegetables",
+  "image": "http://localhost:8000/image2/veg2.webp",
+  "name": "Tomato Local",
+  "quantity": "1kg X 2",
+  "price": 146,
+  "cutprice": 188
+},
+{
+  "_id": {
+    "$oid": "66156007af3234829810483d"
+  },
+  "id": 136,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Fresh Vegetables",
+  "image": "http://localhost:8000/image2/veg3.webp",
+  "name": "Onion",
+  "quantity": "1kg X 2",
+  "price": 56,
+  "cutprice": 88
+},
+{
+  "_id": {
+    "$oid": "66156007af3234829810483e"
+  },
+  "id": 137,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Fresh Vegetables",
+  "image": "http://localhost:8000/image2/veg4.webp",
+  "name": "Brinjal Bharta",
+  "quantity": "1kg X 2",
+  "price": 106,
+  "cutprice": 120
+},
+{
+  "_id": {
+    "$oid": "66156007af3234829810483f"
+  },
+  "id": 138,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Leafy,Herbs & Seasonings",
+  "image": "http://localhost:8000/image2/le2.webp",
+  "name": "Lettuce Iceberg",
+  "quantity": "250g X 2",
+  "price": 60,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "66156007af32348298104840"
+  },
+  "id": 139,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Leafy,Herbs & Seasonings",
+  "image": "http://localhost:8000/image2/le3.webp",
+  "name": "Coriander Leaves",
+  "quantity": "150g",
+  "price": 33,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "66156007af32348298104841"
+  },
+  "id": 140,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Leafy,Herbs & Seasonings",
+  "image": "http://localhost:8000/image2/le4.webp",
+  "name": "Mint Leaves",
+  "quantity": "100g X 2",
+  "price": 43,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "66156007af32348298104842"
+  },
+  "id": 141,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Cuts & Sprouts",
+  "image": "http://localhost:8000/image2/cut2.webp",
+  "name": "Pluckk Mixed Sprouts",
+  "quantity": "100g X 2",
+  "price": 43,
+  "cutprice": 50
+},
+{
+  "_id": {
+    "$oid": "66156007af32348298104843"
+  },
+  "id": 142,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Cuts & Sprouts",
+  "image": "http://localhost:8000/image2/cut3.webp",
+  "name": "Pluckk Pomegranate Peeled 100 gms Combo",
+  "quantity": "100g X 2",
+  "price": 100,
+  "cutprice": 150
+},
+{
+  "_id": {
+    "$oid": "66156007af32348298104844"
+  },
+  "id": 143,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Cuts & Sprouts",
+  "image": "http://localhost:8000/image2/cut4.webp",
+  "name": "Pineapple Slice",
+  "quantity": "200g",
+  "price": 81,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "66156007af32348298104845"
+  },
+  "id": 144,
+  "catgeory": "Fruits&Vegitables",
+  "subcatgeory": "Dried Fruits",
+  "image": "http://localhost:8000/image2/dr2.webp",
+  "name": "Khari Foods Mango Dried",
+  "quantity": "200g",
+  "price": 81,
+  "cutprice": 100
+},
+{
+  "_id": {
+    "$oid": "6615697fea7a67b687688718"
+  },
+  "id": 145,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/m1.webp",
+  "name": "Meat"
+},
+{
+  "_id": {
+    "$oid": "6615697fea7a67b687688719"
+  },
+  "id": 146,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Meat",
+  "image": "http://localhost:8000/image2/m2.webp",
+  "name": "Relish Chicken Hot Wings",
+  "quantity": "6 pcs",
+  "price": 99,
+  "cutprice": 120
+},
+{
+  "_id": {
+    "$oid": "6615697fea7a67b68768871a"
+  },
+  "id": 147,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Meat",
+  "image": "http://localhost:8000/image2/m3.webp",
+  "name": "Relish Chicken Leg Boneless",
+  "quantity": "1 pack (Approx. 330g - 350g)",
+  "price": 199,
+  "cutprice": 300
+},
+{
+  "_id": {
+    "$oid": "6615697fea7a67b68768871b"
+  },
+  "id": 148,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Meat",
+  "image": "http://localhost:8000/image2/m4.webp",
+  "name": "Relish Mutton Liver",
+  "quantity": "1 pack (Approx. 230g - 250g)",
+  "price": 181,
+  "cutprice": 200
+},
+{
+  "_id": {
+    "$oid": "6615697fea7a67b68768871c"
+  },
+  "id": 148,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Meat",
+  "image": "http://localhost:8000/image2/m5.webp",
+  "name": "Relish Chicken Mince",
+  "quantity": "1 pack (Approx. 230g - 250g)",
+  "price": 121,
+  "cutprice": 150
+},
+{
+  "_id": {
+    "$oid": "6615697fea7a67b68768871d"
+  },
+  "id": 149,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/f1.webp",
+  "name": "Fish"
+},
+{
+  "_id": {
+    "$oid": "6615697fea7a67b68768871e"
+  },
+  "id": 150,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Fish",
+  "image": "http://localhost:8000/image2/f2.webp",
+  "name": "Relish Rohu Curry Cut With Head",
+  "quantity": "1 pack (Approx. 230g - 250g)",
+  "price": 121,
+  "cutprice": 150
+},
+{
+  "_id": {
+    "$oid": "6615697fea7a67b68768871f"
+  },
+  "id": 151,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Fish",
+  "image": "http://localhost:8000/image2/f3.webp",
+  "name": "Relish Rohu Curry Cut With Head 1 Kg",
+  "quantity": "500 g X 2",
+  "price": 276,
+  "cutprice": 300
+},
+{
+  "_id": {
+    "$oid": "6615697fea7a67b687688720"
+  },
+  "id": 152,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Fish",
+  "image": "http://localhost:8000/image2/f4.webp",
+  "name": "Relish Seer / Surmai / Anjal Medium Steaks",
+  "quantity": "1 pack (Approx. 230g - 250g)",
+  "price": 621,
+  "cutprice": 750
+},
+{
+  "_id": {
+    "$oid": "66156e89ea7a67b687688721"
+  },
+  "id": 153,
+  "catgeory": "Masala&Oil",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/ma1.webp",
+  "name": "Masala"
+},
+{
+  "_id": {
+    "$oid": "66156e89ea7a67b687688722"
+  },
+  "id": 154,
+  "catgeory": "Masala&Oil",
+  "subcatgeory": "Masala",
+  "image": "http://localhost:8000/image2/ma2.webp",
+  "name": "Everest Kashmiri Lal Chilli Powder",
+  "quantity": "500 g",
+  "price": 621,
+  "cutprice": 750
+},
+{
+  "_id": {
+    "$oid": "66156e89ea7a67b687688723"
+  },
+  "id": 155,
+  "catgeory": "Masala&Oil",
+  "subcatgeory": "Masala",
+  "image": "http://localhost:8000/image2/ma3.webp",
+  "name": "Everest Black Pepper Powder",
+  "quantity": "500 g",
+  "price": 621,
+  "cutprice": 750
+},
+{
+  "_id": {
+    "$oid": "66156e89ea7a67b687688724"
+  },
+  "id": 156,
+  "catgeory": "Masala&Oil",
+  "subcatgeory": "Masala",
+  "image": "http://localhost:8000/image2/ma4.webp",
+  "name": "Catch Jeera Whole",
+  "quantity": "100 g",
+  "price": 71,
+  "cutprice": 80
+},
+{
+  "_id": {
+    "$oid": "66156e89ea7a67b687688725"
+  },
+  "id": 157,
+  "catgeory": "Masala&Oil",
+  "subcatgeory": "Masala",
+  "image": "http://localhost:8000/image2/ma5.webp",
+  "name": "Catch Turmeric Powder",
+  "quantity": "100 g",
+  "price": 71,
+  "cutprice": 80
+},
+{
+  "_id": {
+    "$oid": "66156e89ea7a67b687688726"
+  },
+  "id": 158,
+  "catgeory": "Masala&Oil",
+  "subcatgeory": "Masala",
+  "image": "http://localhost:8000/image2/ma6.webp",
+  "name": "Tata Sampann Spices Chilli Powder Masala",
+  "quantity": "100 g",
+  "price": 66,
+  "cutprice": 70
+},
+{
+  "_id": {
+    "$oid": "66156e89ea7a67b687688727"
+  },
+  "id": 159,
+  "catgeory": "Masala&Oil",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/sa1.webp",
+  "name": "Salt"
+},
+{
+  "_id": {
+    "$oid": "66156e89ea7a67b687688728"
+  },
+  "id": 160,
+  "catgeory": "Masala&Oil",
+  "subcatgeory": "Salt",
+  "image": "http://localhost:8000/image2/ma6.webp",
+  "name": "Tata Salt",
+  "quantity": "1 kg",
+  "price": 26,
+  "cutprice": 30
+},
+{
+  "_id": {
+    "$oid": "66156e89ea7a67b687688729"
+  },
+  "id": 161,
+  "catgeory": "Masala&Oil",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/o1.webp",
+  "name": "Oil"
+},
+{
+  "_id": {
+    "$oid": "66156e89ea7a67b68768872a"
+  },
+  "id": 162,
+  "catgeory": "Masala&Oil",
+  "subcatgeory": "Oil",
+  "image": "http://localhost:8000/image2/o1.webp",
+  "name": "Fortune Sunlite Refined Sunflower Oil (Jar)",
+  "quantity": "5L",
+  "price": 626,
+  "cutprice": 730
+},
+{
+  "_id": {
+    "$oid": "66156e89ea7a67b68768872b"
+  },
+  "id": 163,
+  "catgeory": "Masala&Oil",
+  "subcatgeory": "Oil",
+  "image": "http://localhost:8000/image2/o2.webp",
+  "name": "Tata Simply Cold Pressed Groundnut/ Peanut Oil",
+  "quantity": "1L",
+  "price": 326,
+  "cutprice": 430
+},
+{
+  "_id": {
+    "$oid": "66156e89ea7a67b68768872c"
+  },
+  "id": 164,
+  "catgeory": "Masala&Oil",
+  "subcatgeory": "Oil",
+  "image": "http://localhost:8000/image2/o3.webp",
+  "name": "Anveshan Wood Cold Pressed Coconut Oil (Bottle)",
+  "quantity": "500 ml",
+  "price": 226,
+  "cutprice": 310
+}]

@@ -1,0 +1,103 @@
+[
+   
+    {
+        "id":2,
+        "catgeory":"Product for you",
+        "image":"http://localhost:8000/image2/s1.webp",
+        "name":"Amul Fresh Malai Paneer",
+        "quantity":"500g",
+        "price":99,
+        "cutprice":199
+    },
+    {
+        "id":3,
+        "catgeory":"Product for you",
+        "image":"http://localhost:8000/image2/s2.webp",
+        "name":"Tender Coconut",
+        "quantity":1,
+        "price":100,
+        "cutprice":199
+    },
+    {
+        "id":4,
+        "catgeory":"Product for you",
+        "image":"http://localhost:8000/image2/s3.webp",
+        "name":"Onion",
+        "quantity":"1kg",
+        "price":60,
+        "cutprice":99
+    },
+    {
+        "id":5,
+        "catgeory":"Product for you",
+        "image":"http://localhost:8000/image2/s4.webp",
+        "name":"Mother Dairy Toned Fresh Milk",
+        "quantity":"500ml",
+        "price":99,
+        "cutprice":199
+    },
+    {
+        "id":6,
+        "catgeory":"Product for you",
+        "image":"http://localhost:8000/image2/s5.webp",
+        "name":"Coriander Leaves",
+        "quantity":"150g",
+        "price":20,
+        "cutprice":50
+    },
+    {
+        "id":7,
+        "catgeory":"Product for you",
+        "image":"http://localhost:8000/image2/s6.webp",
+        "name":"Amul Butter - Pasteurised",
+        "quantity":"250g",
+        "price":199,
+        "cutprice":399
+    },
+    {
+        "id":8,
+        "catgeory":"Product for you",
+        "image":"http://localhost:8000/image2/s8.webp",
+        "name":"Thums Up Soft Drink",
+        "quantity":"1L",
+        "price":100,
+        "cutprice":199
+    },
+    {
+        "id":9,
+        "catgeory":"Product for you",
+        "image":"http://localhost:8000/image2/s9.webp",
+        "name":"Fortune Sunlite Refined Sunflower Oil (Pouch)",
+        "quantity":"1L",
+        "price":190,
+        "cutprice":299
+    },
+    {
+        "id":10,
+        "catgeory":"Product for you",
+        "image":"http://localhost:8000/image2/s7.webp",
+        "name":"Leys",
+        "quantity":"300g",
+        "price":50,
+        "cutprice":99
+    },
+    {
+        "id":11,
+        "catgeory":"Product for you",
+        "image":"http://localhost:8000/image2/s10.webp",
+        "name":"Pomegranate",
+        "quantity":"500g",
+        "price":200,
+        "cutprice":399
+    },
+    {
+        "id":12,
+        "catgeory":"Product for you",
+        "image":"http://localhost:8000/image2/s11.webp",
+        "name":"Strawberry",
+        "quantity":"1kg",
+        "price":300,
+        "cutprice":499
+    }
+    
+]

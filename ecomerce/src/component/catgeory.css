@@ -1,0 +1,20 @@
+.catgeory_box{
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.catgeory_box .catgeory_in{
+    width: 85%;
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    /* border: 2px solid rgb(231, 54, 54); */
+   
+}
+.catgeory_box .catgeory_in  p img{
+    width: 8rem;
+    height: 11rem;
+   margin-right: 10px;
+    /* border: 2px solid rgb(6, 5, 5); */
+}

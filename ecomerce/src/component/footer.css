@@ -1,0 +1,117 @@
+.footer-container{
+  
+    margin-top: 40px;
+    /* border-top: 1px solid rgb(210, 208, 208); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* border: 2px solid black; */
+  padding-bottom: 20px;
+    
+}
+.footer-container-top{
+    /* margin-top: 40px; */
+   
+    padding-top: 20px;
+    border-top: 1px solid rgb(210, 208, 208);
+    width: 85%;
+    /* border: 2px solid black; */
+    display: flex;
+    height: 20rem;
+}
+.footer-container-top-useful-link,.footer-container-top-useful-link-categories{
+    /* border: 2px solid black; */
+    display: flex;
+    width: 85%;
+    flex-wrap: wrap;
+    height: 20rem;
+    flex-direction: column;
+    /* background-color: aqua; */
+}
+ .head{
+    /* border: 2px solid black; */
+    display: flex; 
+    justify-content: start;
+  
+   
+}
+ .head p{
+    font: 1.2em sans-serif;
+    font-weight: 550;
+}
+.links{
+    height: 14rem;
+}
+.links,.links2{
+    margin-top: 10px;
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  
+}
+
+.links div,.links2 div{
+    margin-bottom: 8px;
+    /* border: 2px solid black; */
+    margin-bottom: 5px;
+    /* width: 14rem; */
+}
+.links p,.links2 p{
+    font: 0.9em sans-serif;
+    color: rgb(104, 104, 104);
+    display: flex;
+    justify-content: start;
+}
+.links2{
+     height: 17rem;
+     /* background-color: rgb(220, 228, 228); */
+}
+.footer-container-bottom{
+    margin-top: 10px;
+    /* border: 2px solid black; */
+    width: 85%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(246, 249, 252);
+    height: 5rem;
+    
+}
+.com{
+    /* border: 2px solid black; */
+    width: 30rem;
+
+}
+.com p{
+    font-size: 14px;
+}
+.download{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.download p{
+    /* border: 2px solid black; */
+    margin: 3px;
+}
+.download img{
+    height: 2rem;
+    width: 6rem;
+    margin: 3px;
+}
+.social_media{
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+}
+.social_media a{
+   margin: 6px;
+}
+.social_media a img{
+
+    height: 2.5rem;
+    width: 2.5rem;
+}

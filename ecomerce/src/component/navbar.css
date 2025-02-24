@@ -1,0 +1,293 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.header{
+    background-color:#0079FF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    height: 4rem;
+    color: white;
+    position: fixed;
+   
+    width: 100%;
+    z-index: 1000;
+    /* position: sticky; */
+    top: 0;
+  /* position: fixed;
+  z-index: 1000;
+  top: 0;
+  width: 100%;
+   overflow: hidden; */
+}
+.statics{
+    /* width: 100%; */
+    height: 4rem;
+}
+.headerlink{
+    /* border: 5px solid black; */
+    
+    width: 40rem;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+li{
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    color:inherit;
+    
+    
+    
+}
+.searchbar{
+    width: 27rem;
+    /* border: 5px solid black; */
+    /* margin: 0px; */
+    /* display: flex; */
+    padding: 0px;
+    background: white;
+    border-radius: 8px;
+}
+.input{
+    /* border: 3px solid black; */
+    width: 27rem;
+    height: 2.5rem;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 8px;
+    background:white;
+    border: 0px;
+   
+}
+.input:focus{
+    outline: none;
+}
+.searchbar2{
+     /* border: 3px solid black; */
+    margin: 0px;
+    display: flex;
+    padding: 0px;
+    justify-content: flex-start;
+    /* height: 2.5rem; */
+    width: 24rem;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 7px;
+    color: #000;
+   font-size: 24px;
+   margin-right: 7px;
+   
+}
+.name{
+    padding: 0px;
+    font-size: 25px;
+    /* border: 3px solid black; */
+    width: 11rem;
+    margin: 0px;
+    margin-left: 29px;
+    font-style: normal;
+}
+.i{
+    margin-right: 8px;
+}
+.i2{
+    margin-left: 8px ;
+}
+input::placeholder{
+    font: 1.3em sans-serif;
+    font-style: normal;
+}
+p{
+        display: inline;
+}
+
+.Dropdown{
+    /* border: 3px solid black; */
+    position: absolute;
+    top: 41.6px ;
+    left: 11rem;
+    width: 14rem;
+    height: 15rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+   background-color:white;
+   color: #000;
+   z-index: 200;
+   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.Dropdown li{
+    
+    border-bottom: 2px solid white;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    height: 5rem;
+    border-bottom:1px solid rgb(239, 233, 233);
+}
+.Dropdown li:hover{
+    background-color: rgb(249, 246, 246);
+}
+.a{
+    /* border: 2px solid black; */
+    margin-left: 20px;
+  
+}
+.m{
+  display: flex;
+  justify-content: space-between;   
+}
+.f{
+    margin-right: 30px;
+    font: 1.19em sans-serif;
+}
+p{
+    font-size: 18px;
+} 
+.m p{
+    margin-left: 20px;
+    font-size: 18px;
+}
+.m a{
+    margin-right: 20px;
+    font-size: 18px;
+    color:blue;
+   
+}
+.triangle{
+    height: 18px;
+    width: 18px;
+    position: absolute;
+    background-color: white;
+    top: 31.9px;
+    left: 17.2rem;
+    transform: rotate(45deg);
+    z-index: 0;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+@media  screen and (max-width: 1330px) {
+    /* *{
+        background-color: aqua;
+    } */
+    .searchbar2{
+      width: 15rem;  
+    }
+    .input{
+        width: 15rem;
+    }
+    .searchbar{
+        width: 15rem;
+    }
+    input::placeholder{
+          font: 0.97em sans-serif;
+    }
+    
+    .headerlink{
+        width: 30rem;
+    }
+    .name{
+        width: 5rem;
+        font-size: 20px;
+    }
+    .icon{
+        font-size: 18px;
+    }
+    .i{
+        font-size: 15px;
+        /* color: white; */
+    }
+    .header>.headerlink>.Dropdown{
+      
+        left: 8.3rem;
+       
+        width: 12rem;
+    }
+    .m p{
+        margin-left:16px ;
+        font-size:17px ;
+    }
+    .m a{
+        margin-right: 15px;
+        font-size:17px ;
+    }
+    .f{
+        margin-right:20px;
+        font: 1.1em sans-serif;
+    }
+    
+   .a{
+    margin-left: 16px;
+   }
+    
+    .a p{
+        font-size:17px ;
+    }
+    .triangle{
+        left: 13.5rem;
+    }
+}
+@media  screen and ( max-width:906px) {
+    .headerlink{
+        width: 14rem;
+    }
+      ul p{
+        display: none;
+    }
+    .name{
+        width: 4rem;
+        font-size: 17px;
+    }
+    .searchbar2{
+        width: 12rem;
+
+    }
+    .searchbar{
+        width: 12rem;
+    }
+    .input{
+        width: 12rem;
+    }
+    input::placeholder{
+        font: 0.8em sans-serif;
+    }
+    .header>.headerlink>.Dropdown{
+        width: 10rem;
+        left: 0.5rem;
+    }
+    .m p{
+        font-size: 15px;
+        margin-left:12px ;
+    }
+    .m a{
+        margin-right:9px ;
+        font-size:16px ;
+    }
+    .f{
+        margin-right:18px ;
+        font: 1em sans-serif;
+    }
+    .a{
+        margin-left:12px ;
+    }
+    .a p{
+        font-size: 15pxzs;
+    }
+    .triangle{
+        top: 33px;
+        left: 4.8rem;
+        height: 15px;
+        width: 15px;
+    }
+}

@@ -1,0 +1,1237 @@
+[{
+  "_id": {
+    "$oid": "6605a1a005ce9a50dcdc9ed6"
+  },
+  "name": "xdcgx",
+  "phone_no": {
+    "$numberLong": "5646465654"
+  },
+  "email": "zxcz@gmail.com",
+  "password": "123",
+  "cart": [
+    "65d798f7e083ee6d554a8b84",
+    "65d798f7e083ee6d554a8b85",
+    "6603d9aa9095bfbd1c465a84",
+    "6603d9aa9095bfbd1c465a96",
+    "6603d9aa9095bfbd1c465a9e",
+    "65d798f7e083ee6d554a8b86",
+    "65d798f7e083ee6d554a8b87",
+    "6601b0176ed71cd86373c9de",
+    "6601b0176ed71cd86373c9e1",
+    "6603d9aa9095bfbd1c465a7d"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606a8d75d58720367a2e3f7"
+  },
+  "name": "kkk",
+  "phone_no": 9999,
+  "email": "kkk@gmail.com",
+  "password": "ggggg",
+  "cart": [
+    "6603d9aa9095bfbd1c465a7f",
+    "6603d9aa9095bfbd1c465a84",
+    "65d798f7e083ee6d554a8b85",
+    "660265642d9fb429e6ec8849"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bdabfc5388d14229eca53"
+  },
+  "name": "kkk",
+  "phone_no": 999,
+  "email": "ka@gmail.com",
+  "password": "jjjj",
+  "cart": [
+    "65d798f7e083ee6d554a8b84"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660be727c5388d14229ecaf9"
+  },
+  "name": "hh",
+  "phone_no": 88,
+  "email": "k@gmail.com",
+  "password": "hhh",
+  "cart": [
+    "65d798f7e083ee6d554a8b84"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660be7aec5388d14229ecb08"
+  },
+  "name": "kkk",
+  "phone_no": 999,
+  "email": "l@gmail.com",
+  "password": "hhh",
+  "cart": [
+    "65d798f7e083ee6d554a8b84",
+    "65d798f7e083ee6d554a8b85"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bece9c5388d14229ecb69"
+  },
+  "name": "kkk",
+  "phone_no": 888,
+  "email": "kbbb@gmail.com",
+  "password": "jjjjkkkk",
+  "cart": [
+    "65d798f7e083ee6d554a8b84"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660befbec5388d14229ecb8b"
+  },
+  "name": "kkk",
+  "phone_no": 9999,
+  "email": "z@gmail.com",
+  "password": "bbb",
+  "cart": [
+    "65d798f7e083ee6d554a8b84"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bf789c5388d14229ecbb4"
+  },
+  "name": "hhh",
+  "phone_no": 999,
+  "email": "kk@gmail.com",
+  "password": "fffff",
+  "cart": [
+    "65d798f7e083ee6d554a8b84"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661190cc9fead65185ec9721"
+  },
+  "name": "kadrun",
+  "phone_no": 9999,
+  "email": "vvvv",
+  "password": "vvv",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611921a9fead65185ec9729"
+  },
+  "name": "jjj",
+  "phone_no": 999,
+  "email": "n@gmail.com",
+  "password": "jjj",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611929b9fead65185ec9733"
+  },
+  "name": "jjjj",
+  "phone_no": 9999,
+  "email": "nnnn@gmail.com",
+  "password": "mmmm",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661197ae9fead65185ec9738"
+  },
+  "name": "jjjj",
+  "phone_no": 8888,
+  "email": "hhh@gmail.com",
+  "password": "7777",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611991476baf43c2483c47b"
+  },
+  "name": "nnnn",
+  "phone_no": 999,
+  "email": "nnn@gmail.com",
+  "password": "bbbb",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661199a076baf43c2483c482"
+  },
+  "name": "nnnn",
+  "phone_no": 999,
+  "email": "jjjj@gmail.com",
+  "password": "nnn",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66119a4f76baf43c2483c48f"
+  },
+  "name": "jjj",
+  "phone_no": 888,
+  "email": "jj@gmail.com",
+  "password": "nnnn",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66119aa676baf43c2483c49b"
+  },
+  "name": "mmmm",
+  "phone_no": 999,
+  "email": "j@gmail.com",
+  "password": "jjjj",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611a36976baf43c2483c4ac"
+  },
+  "name": "mmm",
+  "phone_no": 888,
+  "email": "w@gmail.com",
+  "password": "hhh",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611a39276baf43c2483c4b2"
+  },
+  "name": "yyy",
+  "phone_no": 22,
+  "email": "o@gmail.com",
+  "password": "jj",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611a3fb76baf43c2483c4bb"
+  },
+  "name": "dd",
+  "phone_no": 44,
+  "email": "s@gmail.com",
+  "password": "hhhh",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66122d27fe86b583d1d02e16"
+  },
+  "name": "jjj",
+  "phone_no": 8888,
+  "email": "lf@gmail.com",
+  "password": "hbhhh",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66122e54fe86b583d1d02e1d"
+  },
+  "name": "Kadrun Nisha",
+  "phone_no": 777,
+  "email": "kadrunn@gmail.com",
+  "password": "jjjjj",
+  "cart": [
+    "65d798f7e083ee6d554a8b84",
+    "65d798f7e083ee6d554a8b85",
+    "6601b0176ed71cd86373c9de",
+    "65d798f7e083ee6d554a8b86",
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "q": 0,
+      "_id": {
+        "$oid": "661288588046a664148ccac6"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "q": 1,
+      "_id": {
+        "$oid": "661288588046a664148ccac8"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 0,
+      "_id": {
+        "$oid": "661288a5c9e5b565f8bf4085"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 1,
+      "_id": {
+        "$oid": "661288a5c9e5b565f8bf4087"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "q": 0,
+      "_id": {
+        "$oid": "661288a7c9e5b565f8bf4089"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "q": 1,
+      "_id": {
+        "$oid": "661288a7c9e5b565f8bf408b"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b86",
+      "q": 0,
+      "_id": {
+        "$oid": "661288a9c9e5b565f8bf408d"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b86",
+      "q": 1,
+      "_id": {
+        "$oid": "661288a9c9e5b565f8bf408f"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b87",
+      "q": 0,
+      "_id": {
+        "$oid": "6612894d18dfdb1450fedc7e"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b87",
+      "q": 1,
+      "_id": {
+        "$oid": "6612894d18dfdb1450fedc80"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 0,
+      "_id": {
+        "$oid": "6612895418dfdb1450fedc83"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 1,
+      "_id": {
+        "$oid": "6612895418dfdb1450fedc85"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b86",
+      "q": 0,
+      "_id": {
+        "$oid": "66128a35a201f806daa8d179"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b86",
+      "q": 1,
+      "_id": {
+        "$oid": "66128a35a201f806daa8d17b"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b87",
+      "q": 0,
+      "_id": {
+        "$oid": "66128a66a201f806daa8d182"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b87",
+      "q": 1,
+      "_id": {
+        "$oid": "66128a66a201f806daa8d184"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 0,
+      "_id": {
+        "$oid": "66128c1821f55a211b5a6fe8"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 1,
+      "_id": {
+        "$oid": "66128c1821f55a211b5a6fea"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9de",
+      "q": 0,
+      "_id": {
+        "$oid": "66128c2421f55a211b5a7017"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9de",
+      "q": 1,
+      "_id": {
+        "$oid": "66128c2421f55a211b5a7019"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 0,
+      "_id": {
+        "$oid": "66128c7921f55a211b5a7065"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 1,
+      "_id": {
+        "$oid": "66128c7921f55a211b5a7067"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 0,
+      "_id": {
+        "$oid": "66128e8a21f55a211b5a709e"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 1,
+      "_id": {
+        "$oid": "66128e8a21f55a211b5a70a0"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 1,
+      "_id": {
+        "$oid": "66128e8e21f55a211b5a70d9"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 1,
+      "_id": {
+        "$oid": "66128e8e21f55a211b5a70db"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 2,
+      "_id": {
+        "$oid": "66128e8f21f55a211b5a7118"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 1,
+      "_id": {
+        "$oid": "66128e8f21f55a211b5a711a"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "q": 0,
+      "_id": {
+        "$oid": "66128e9021f55a211b5a715b"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "q": 1,
+      "_id": {
+        "$oid": "66128e9021f55a211b5a715d"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 0,
+      "_id": {
+        "$oid": "66128e9c21f55a211b5a71eb"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 1,
+      "_id": {
+        "$oid": "66128e9c21f55a211b5a71ed"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 1,
+      "_id": {
+        "$oid": "66128fe221f55a211b5a7252"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 0,
+      "_id": {
+        "$oid": "66128fe221f55a211b5a7250"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9df",
+      "q": 0,
+      "_id": {
+        "$oid": "6612c7df59fb581b703ba601"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9df",
+      "q": 1,
+      "_id": {
+        "$oid": "6612c7df59fb581b703ba603"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 0,
+      "_id": {
+        "$oid": "6612c8c159fb581b703ba707"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 1,
+      "_id": {
+        "$oid": "6612c8c159fb581b703ba709"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 0,
+      "_id": {
+        "$oid": "6612c8cf59fb581b703ba75f"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 1,
+      "_id": {
+        "$oid": "6612c8cf59fb581b703ba761"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 0,
+      "_id": {
+        "$oid": "6612ca2359fb581b703ba7bc"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "6612ca2359fb581b703ba7be"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "6612cadf59fb581b703ba821"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "_id": {
+        "$oid": "6612cae859fb581b703ba883"
+      }
+    },
+    {
+      "id": "6603d9aa9095bfbd1c465a7e",
+      "_id": {
+        "$oid": "6612caeb59fb581b703ba8b5"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b87",
+      "_id": {
+        "$oid": "6612cb5a55b5f676a24ee4fb"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9e0",
+      "_id": {
+        "$oid": "6612cb6255b5f676a24ee563"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "6612d03d3809f91d3b86e0bd"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "6612d0523809f91d3b86e0f3"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "6612d0ac3809f91d3b86e12c"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "_id": {
+        "$oid": "6612d0b43809f91d3b86e164"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "6612d17b87034bccb81e30bc"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9de",
+      "_id": {
+        "$oid": "6612d1c6e9e2870ec6be2221"
+      }
+    },
+    {
+      "id": "6603d9aa9095bfbd1c465a7a",
+      "_id": {
+        "$oid": "6612db37e9e2870ec6be22d2"
+      }
+    },
+    {
+      "id": "6603d9aa9095bfbd1c465a7a",
+      "_id": {
+        "$oid": "6612db39e9e2870ec6be230e"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9de",
+      "_id": {
+        "$oid": "6612dc83e9e2870ec6be234b"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "6612e1f55569d8805cc91601"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "6612e4045569d8805cc91700"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "66141e76b2446046eb0bbacf"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "66141e79b2446046eb0bbb10"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "66141e91a8892db234131d78"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "_id": {
+        "$oid": "66141e96a8892db234131dbb"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9e2",
+      "_id": {
+        "$oid": "66141ea0a8892db234131dff"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9e2",
+      "_id": {
+        "$oid": "66141ea2a8892db234131e44"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "6614201ea8892db234131ed1"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "_id": {
+        "$oid": "66142044a8892db234131f18"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614235e116950ebc140994c"
+  },
+  "name": "nisha",
+  "phone_no": 88888,
+  "email": "nisha@gmail.com",
+  "password": "jjjj",
+  "cart": [
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "6614274e689911168d3c5768"
+      },
+      "q": 2
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "_id": {
+        "$oid": "66142753689911168d3c576c"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9df",
+      "q": 1,
+      "_id": {
+        "$oid": "66142a21964414f6598cf28b"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9e0",
+      "q": 1,
+      "_id": {
+        "$oid": "66142a40964414f6598cf293"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9e1",
+      "q": 1,
+      "_id": {
+        "$oid": "66142a992e5f1e2c547c1d76"
+      }
+    },
+    {
+      "id": "6603d9aa9095bfbd1c465a7a",
+      "q": 1,
+      "_id": {
+        "$oid": "66142c422e5f1e2c547c1d90"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9de",
+      "_id": {
+        "$oid": "66142c5f2e5f1e2c547c1da2"
+      }
+    },
+    {
+      "id": "6603d9aa9095bfbd1c465a7b",
+      "q": 1,
+      "_id": {
+        "$oid": "66142db82e5f1e2c547c1dbf"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b88",
+      "_id": {
+        "$oid": "661436272e5f1e2c547c1e3b"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b8e",
+      "_id": {
+        "$oid": "661436a02e5f1e2c547c1e9f"
+      },
+      "q": 4
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b8b",
+      "_id": {
+        "$oid": "66143cce2e5f1e2c547c1ef4"
+      },
+      "q": 10
+    },
+    {
+      "id": "6601c3766ed71cd86373c9e9",
+      "_id": {
+        "$oid": "66143e5194ee73ddbf4c1340"
+      }
+    },
+    {
+      "id": "6603d9aa9095bfbd1c465a7e",
+      "_id": {
+        "$oid": "6614476f892af3d6f7638512"
+      }
+    }
+  ],
+  "__v": 13
+},
+{
+  "_id": {
+    "$oid": "661448d6892af3d6f7638536"
+  },
+  "name": "lllllll",
+  "phone_no": 0,
+  "email": "misha@gmail.com",
+  "password": "jhhh",
+  "cart": [
+    {
+      "id": "65d798f7e083ee6d554a8b88",
+      "_id": {
+        "$oid": "661448da892af3d6f7638539"
+      },
+      "q": 4
+    },
+    {
+      "id": "6603d9aa9095bfbd1c465a7d",
+      "_id": {
+        "$oid": "661449e2892af3d6f7638554"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9e0",
+      "_id": {
+        "$oid": "66144a07892af3d6f7638582"
+      },
+      "q": 8
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "_id": {
+        "$oid": "66144aae20a78af81fb277a7"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9df",
+      "_id": {
+        "$oid": "66144b048ef209d21977c409"
+      }
+    },
+    {
+      "id": "6603d9aa9095bfbd1c465a7c",
+      "_id": {
+        "$oid": "66144c288ef209d21977c419"
+      }
+    },
+    {
+      "id": "6603d9aa9095bfbd1c465a7b",
+      "q": 2,
+      "_id": {
+        "$oid": "66144c9e8ef209d21977c423"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9e3",
+      "q": 6,
+      "_id": {
+        "$oid": "66144cca8ef209d21977c438"
+      }
+    }
+  ],
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "66144d228ef209d21977c4af"
+  },
+  "name": "hhhhh",
+  "phone_no": 999,
+  "email": "kadrrr@gmail.com",
+  "password": "jjjj",
+  "cart": [
+    {
+      "id": "65d798f7e083ee6d554a8b87",
+      "q": -145,
+      "_id": {
+        "$oid": "66144d288ef209d21977c4b2"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b88",
+      "q": -138,
+      "_id": {
+        "$oid": "66144d308ef209d21977c4c8"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b89",
+      "q": -117,
+      "_id": {
+        "$oid": "66144d368ef209d21977c4d5"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9e0",
+      "q": -71,
+      "_id": {
+        "$oid": "66144f0321801a7c2a63a5e0"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b86",
+      "q": -143,
+      "_id": {
+        "$oid": "66145474c262b3b24f1527d9"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b8d",
+      "q": -107,
+      "_id": {
+        "$oid": "661454f0c262b3b24f15284c"
+      }
+    }
+  ],
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "6614f6825a48f5fbbba99699"
+  },
+  "name": "zakkk",
+  "phone_no": 99999,
+  "email": "junkoook@gmail.com",
+  "password": "bbbbb",
+  "cart": [
+    {
+      "id": "6601b0176ed71cd86373c9e0",
+      "q": 2,
+      "_id": {
+        "$oid": "66150858e0a9fea46bb1f96b"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "q": 9,
+      "_id": {
+        "$oid": "6615206d178aa8b2e93ca7c9"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b86",
+      "q": 6,
+      "_id": {
+        "$oid": "661520bc178aa8b2e93ca886"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b84",
+      "q": 3,
+      "_id": {
+        "$oid": "661521ae178aa8b2e93ca9ad"
+      }
+    }
+  ],
+  "__v": 20,
+  "orders": [
+    {
+      "_id": {
+        "$oid": "6614f6825a48f5fbbba99699"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "661524e9178aa8b2e93caa0c"
+  },
+  "name": "jaaaa",
+  "phone_no": 999999,
+  "email": "jjj@gmail.com",
+  "password": "nnnnn",
+  "cart": [
+    {
+      "id": "65d798f7e083ee6d554a8b85",
+      "q": 4,
+      "_id": {
+        "$oid": "66152506178aa8b2e93caa10"
+      }
+    },
+    {
+      "id": "65d798f7e083ee6d554a8b88",
+      "q": 3,
+      "_id": {
+        "$oid": "661528a6178aa8b2e93cab21"
+      }
+    },
+    {
+      "id": "66154f3c2b1dc0588b1cb688",
+      "q": 2,
+      "_id": {
+        "$oid": "66155851c925b4b0ba225e6c"
+      }
+    },
+    {
+      "id": "66154f3c2b1dc0588b1cb68c",
+      "q": 2,
+      "_id": {
+        "$oid": "66155856c925b4b0ba225e82"
+      }
+    },
+    {
+      "id": "66156007af32348298104838",
+      "q": 0,
+      "_id": {
+        "$oid": "66156264c925b4b0ba225ecb"
+      }
+    },
+    {
+      "id": "66156007af32348298104839",
+      "q": 0,
+      "_id": {
+        "$oid": "6615759cc925b4b0ba225fad"
+      }
+    },
+    {
+      "id": "66156007af32348298104836",
+      "q": 2,
+      "_id": {
+        "$oid": "661575eec925b4b0ba22600a"
+      }
+    },
+    {
+      "id": "66156007af3234829810483a",
+      "q": 0,
+      "_id": {
+        "$oid": "6615777ac925b4b0ba2260af"
+      }
+    },
+    {
+      "id": "66156007af32348298104837",
+      "q": 0,
+      "_id": {
+        "$oid": "66157c78c925b4b0ba2260e1"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9df",
+      "q": 0,
+      "_id": {
+        "$oid": "66157c8cc925b4b0ba226121"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9e1",
+      "q": 0,
+      "_id": {
+        "$oid": "66157cdfc925b4b0ba226130"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9e2",
+      "q": 0,
+      "_id": {
+        "$oid": "66157ce2c925b4b0ba226140"
+      }
+    },
+    {
+      "id": "6601b0176ed71cd86373c9e3",
+      "q": 0,
+      "_id": {
+        "$oid": "66157ce4c925b4b0ba226151"
+      }
+    },
+    {
+      "id": "661556312b1dc0588b1cb69e",
+      "q": 0,
+      "_id": {
+        "$oid": "661583edc925b4b0ba226185"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "_id": {
+        "$oid": "661524e9178aa8b2e93caa0c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661524e9178aa8b2e93caa0c"
+      }
+    }
+  ],
+  "__v": 18
+},
+{
+  "_id": {
+    "$oid": "66156963ea7a67b68768870f"
+  },
+  "id": 146,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Meat",
+  "image": "http://localhost:8000/image2/m2.webp",
+  "name": "Relish Chicken Hot Wings",
+  "quantity": "6 pcs",
+  "price": 99,
+  "cutprice": 120
+},
+{
+  "_id": {
+    "$oid": "66156963ea7a67b687688710"
+  },
+  "id": 147,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Meat",
+  "image": "http://localhost:8000/image2/m3.webp",
+  "name": "Relish Chicken Leg Boneless",
+  "quantity": "1 pack (Approx. 330g - 350g)",
+  "price": 199,
+  "cutprice": 300
+},
+{
+  "_id": {
+    "$oid": "66156963ea7a67b687688711"
+  },
+  "id": 148,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Meat",
+  "image": "http://localhost:8000/image2/m4.webp",
+  "name": "Relish Mutton Liver",
+  "quantity": "1 pack (Approx. 230g - 250g)",
+  "price": 181,
+  "cutprice": 200
+},
+{
+  "_id": {
+    "$oid": "66156963ea7a67b687688712"
+  },
+  "id": 148,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Meat",
+  "image": "http://localhost:8000/image2/m5.webp",
+  "name": "Relish Chicken Mince",
+  "quantity": "1 pack (Approx. 230g - 250g)",
+  "price": 121,
+  "cutprice": 150
+},
+{
+  "_id": {
+    "$oid": "66156963ea7a67b687688713"
+  },
+  "id": 149,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "catgeory-section",
+  "image": "http://localhost:8000/image2/f1.webp",
+  "name": "Fish"
+},
+{
+  "_id": {
+    "$oid": "66156963ea7a67b687688714"
+  },
+  "id": 150,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Fish",
+  "image": "http://localhost:8000/image2/f2.webp",
+  "name": "Relish Rohu Curry Cut With Head",
+  "quantity": "1 pack (Approx. 230g - 250g)",
+  "price": 121,
+  "cutprice": 150
+},
+{
+  "_id": {
+    "$oid": "66156963ea7a67b687688715"
+  },
+  "id": 151,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Fish",
+  "image": "http://localhost:8000/image2/f3.webp",
+  "name": "Relish Rohu Curry Cut With Head 1 Kg",
+  "quantity": "500 g X 2",
+  "price": 276,
+  "cutprice": 300
+},
+{
+  "_id": {
+    "$oid": "66156963ea7a67b687688716"
+  },
+  "id": 152,
+  "catgeory": "Fish&meat",
+  "subcatgeory": "Fish",
+  "image": "http://localhost:8000/image2/f4.webp",
+  "name": "Relish Seer / Surmai / Anjal Medium Steaks",
+  "quantity": "1 pack (Approx. 230g - 250g)",
+  "price": 621,
+  "cutprice": 750
+},
+{
+  "_id": {
+    "$oid": "661592104b50117e88201dbf"
+  },
+  "name": "hhhh",
+  "phone_no": 9999,
+  "email": "nn@gmail.com",
+  "password": "bbbb",
+  "cart": [
+    {
+      "id": "66156007af32348298104837",
+      "q": 0,
+      "_id": {
+        "$oid": "661592194b50117e88201dc3"
+      }
+    }
+  ],
+  "orders": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "661597b2c6037466cfd8bbcb"
+  },
+  "name": "jjjjj",
+  "phone_no": 99999,
+  "email": "kkkkk@gmail.com",
+  "password": "hhhh",
+  "cart": [
+    {
+      "id": "66156007af32348298104838",
+      "q": 3,
+      "_id": {
+        "$oid": "6615981ac6037466cfd8bbd1"
+      }
+    },
+    {
+      "id": "66156007af32348298104836",
+      "q": 0,
+      "_id": {
+        "$oid": "66159ba2910afbc5bba13226"
+      }
+    }
+  ],
+  "orders": [],
+  "__v": 2
+}]

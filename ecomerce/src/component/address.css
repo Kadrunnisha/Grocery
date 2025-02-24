@@ -1,0 +1,83 @@
+.addk{
+    
+    display: flex;
+    
+    padding-top: 20px;
+    padding-left: 30px;
+    background-color: rgb(249, 248, 248);
+    justify-content: center;
+    align-items: start;
+    padding-bottom: 40px;
+    
+}
+.inadd{
+    background-color: white;
+    /* border: 2px solid black; */
+    height: 100%;
+    display: flex;
+    width: 60%;
+   flex-direction: column;
+   margin-left: 40px;
+   box-shadow: 0 3px 6px rgba(255, 252, 252, 0.979), 0 3px 6px rgba(36, 36, 36, 0.23);
+   
+}
+.ms{
+    border-bottom: 1px solid rgb(234, 232, 232);
+     height: 4rem;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    
+}
+.ms p{
+    padding-left: 40px;
+   font-size: 18px;
+   font-weight: 600;
+}
+.ms .l{
+    padding-left: 40px;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(78, 78, 214);
+}
+
+.address-list{
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 30px;
+}
+/* .address-item{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    height: 9rem;
+} */
+.address-item {
+    /* border: 1px solid black; */
+    display: flex;
+   flex-direction: column;
+    /* justify-content: start; */
+    /* align-items: center; */
+    border-bottom: 1px solid rgb(234, 232, 232);
+   
+}
+.di1,.di0{
+    /* border: 1px solid black; */
+    display: flex;
+    padding-left: 40px;
+    justify-content: start;
+    align-items: center;
+    height: 3rem;
+}
+.di1 p{
+  margin-right: 30px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.address-item .di0 p{
+    font-size: 16px;
+   margin-right: 4px;
+   color: rgb(115, 115, 115);
+}
