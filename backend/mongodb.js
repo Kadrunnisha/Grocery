@@ -3,7 +3,14 @@ const mongoose=require("mongoose");
 
 // const { default: Address } = require("../ecomerce/src/component/address");
 const url='mongodb+srv://kadrunnisha2:nTgxCdip3Ec5rRSM@intenship.oqexe5i.mongodb.net/ecomercedb?retryWrites=true&w=majority&appName=intenship'
-mongoose.connect(url)
+mongoose.connect(url,
+                  {
+        
+        serverSelectionTimeoutMS: 5000, // Prevent long connection hangs
+        socketTimeoutMS: 45000, // Auto-close inactive connections
+        maxPoolSize: 10, // Limit concurrent connections
+      }
+    )
 .then(()=>{
     console.log("mongodb connected")
 })
