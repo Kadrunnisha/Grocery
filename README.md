@@ -1,5 +1,7 @@
-﻿# Grocery.com
-Wesite_Link(Render):https://gr-flax.vercel.app/
+#Note: Please wait some second it take time to load the wesite
+ 
+ # Grocery.com
+Wesite_Link(Render):https://grocery-com.vercel.app/
 
 # tech Stack used
 <ul>
